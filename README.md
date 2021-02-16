@@ -1,5 +1,5 @@
 # 2020.2-Meu gov.br
-![logo](Images/logo.png)
+<img alt = "img_equipe" src="Images/logo.png" width = "400"/>
 
 ## Sobre o projeto
 
@@ -18,3 +18,5 @@ Repositório de documentação do projeto da disciplina de Requisitos de Softwar
 | Giovana Vitor Dionísio        | giovanadionisio.gd@gmail.com   | giovanadionisio |
 | Luis Gustavo Ferreira Marques | luisgustavomarques@outlook.com | luisgfmarques   |
 | Pedro de Miranda Haick        |                                | peHaick         |
+
+<img alt = "img_equipe" src="https://i.ibb.co/8DD0CVw/99d00d59-2ef9-4474-abf0-1245c27966c5.jpg" width = "475"/>
