@@ -1,6 +1,5 @@
-![logo](Images/logo.png)
-
 # 2020.2-Meu gov.br
+![logo](Images/logo.png)
 
 ## Sobre o projeto
 
