@@ -1,7 +1,10 @@
 # 2020.2-Meu gov.br
 
-## sobre o projeto
-Repositorio de documentação do projeto da materia de Requisitos de software
+## Sobre o projeto
+Repositório de documentação do projeto da disciplina de Requisitos de Software sobre o aplicativo Meu gov.br
+
+## Sobre o aplicativo
+"O aplicativo faz parte de uma conta única do Governo Federal, permitindo criar sua conta ou trocar sua senha no Login Único por meio de validação facial. Sua principal utilidade é reunir seus documentos em um só lugar e provar com segurança, a sua titularidade em meios digitais."
 
 ## Equipe
 
