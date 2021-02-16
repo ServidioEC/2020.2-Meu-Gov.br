@@ -22,4 +22,5 @@ Slides da apresentação:
 | Design dos Slides                     | Eduarda Servidio                |
 | Inicio da organização do projeto(Git) | Eduarda S., Giovana D., Luis G. |
 | Inicio da Criação da Wiki             | Eduarda S. e Luis Gustavo       |
+| Link da Apresentação                  |                                 |
 
