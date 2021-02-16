@@ -6,11 +6,11 @@ Escolhemos o Aplicativo Meu Gov.br para realizar o projeto da matéria Requisito
 Foram desenvolvidos o Rich Picture inicial e a Wiki do Projeto.
 
 # Apresentação
-Link da apresentação:
+Link da apresentação: https://www.youtube.com/watch?v=IC_sE4dq9fA&feature=youtu.be
 
 Slides da apresentação:
 
-## Contribuição da Equipe
+## Contribuições da Equipe
 
 | Realização                            | Membro que contribuiu           |
 | ------------------------------------- | ------------------------------- | 
@@ -22,5 +22,7 @@ Slides da apresentação:
 | Design dos Slides                     | Eduarda Servidio                |
 | Inicio da organização do projeto(Git) | Eduarda S., Giovana D., Luis G. |
 | Inicio da Criação da Wiki             | Eduarda S. e Luis Gustavo       |
-| Link da Apresentação                  |                                 |
+| Gravação do Video da Apresentação     | Todos os membros                |
+| Edição do vídeo/Link da Apresentação  | Luis Gustavo                    |
+
 
