@@ -1,4 +1,8 @@
 site_name: Meu-gov.br
 
+nav:
+    -Home: index.md
+    -Planejamento: plan.md
+
 docs_dir: docs/
 site_dir: docs/
