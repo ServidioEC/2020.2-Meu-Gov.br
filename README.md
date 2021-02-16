@@ -15,7 +15,7 @@ Repositório de documentação do projeto da disciplina de Requisitos de Softwar
 | Membro                        | Email                          | Github          |
 | ----------------------------- | ------------------------------ | --------------- |
 | Eduarda Servidio Claudino     | dudaservidio@gmail.com         | ServidioEC      |
-| Gabriela da Gama Pivetta      |                                | gabrielapivetta |
+| Gabriela da Gama Pivetta      |  gpivetta99@gmail.com          | gabrielapivetta |
 | Giovana Vitor Dionísio        | giovanadionisio.gd@gmail.com   | giovanadionisio |
 | Luis Gustavo Ferreira Marques | luisgustavomarques@outlook.com | luisgfmarques   |
 | Pedro de Miranda Haick        |                                | peHaick         |
