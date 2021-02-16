@@ -12,6 +12,6 @@ Repositório de documentação do projeto da disciplina de Requisitos de Softwar
  | --- | --- | ---|
  |Eduarda Servidio Claudino| dudaservidio@gmail.com |ServidioEC|
  |Gabriela da Gama Pivetta| | gabrielapivetta|
- |Giovana Vitor Dionísio| |giovanadionisio |
+ |Giovana Vitor Dionísio| giovanadionisio.gd@gmail.com |giovanadionisio |
  |Luis Gustavo Ferreira Marques| luisgustavomarques@outlook.com|luisgfmarques|
  |Pedro de Miranda Haick| |peHaick|
