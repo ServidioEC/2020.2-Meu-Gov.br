@@ -1,10 +1,23 @@
-# Meu gov.br
+# 2020.2-Meu gov.br
 
-## Commands
+<img alt = "logo" src="Images/logo.png" width = "400"/>
 
-## Project layout
+## Sobre o projeto
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Repositório de documentação do projeto da disciplina de Requisitos de Software sobre o aplicativo Meu gov.br
+
+## Sobre o aplicativo
+
+"O aplicativo faz parte de uma conta única do Governo Federal, permitindo criar sua conta ou trocar sua senha no Login Único por meio de validação facial. Sua principal utilidade é reunir seus documentos em um só lugar e provar com segurança, a sua titularidade em meios digitais."
+
+## Equipe
+
+| Membro                        | Email                          | Github          |
+| ----------------------------- | ------------------------------ | --------------- |
+| Eduarda Servidio Claudino     | dudaservidio@gmail.com         | ServidioEC      |
+| Gabriela da Gama Pivetta      | gpivetta99@gmail.com           | gabrielapivetta |
+| Giovana Vitor Dionísio        | giovanadionisio.gd@gmail.com   | giovanadionisio |
+| Luis Gustavo Ferreira Marques | luisgustavomarques@outlook.com | luisgfmarques   |
+| Pedro de Miranda Haick        |                                | peHaick         |
+
+<img alt = "img_equipe" src="https://i.ibb.co/8DD0CVw/99d00d59-2ef9-4474-abf0-1245c27966c5.jpg" width = "475"/>
