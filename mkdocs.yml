@@ -1,8 +1,10 @@
 site_name: Meu-gov.br
 theme:
     name: material
+    favicon: Images/logo.png
+    logo: Images/logo.png
 nav:
     - Home: index.md
-    - Planejamento: plan.md
+    - Planejamento: Planejamento/plan.md
 
 docs_dir: docs/
