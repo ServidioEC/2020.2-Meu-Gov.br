@@ -1,6 +1,6 @@
 # 2020.2-Meu gov.br
 
-<img alt = "logo" src="/Images/logo.png" width = "400"/>
+<img alt = "logo" src="Images/logo.png" width = "400"/>
 
 ## Sobre o projeto
 
