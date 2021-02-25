@@ -8,9 +8,9 @@ O Rich Picture é o desenho de uma situação que ilustra os principais elemento
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                                                                 | Autores             | Revisor |
-| ---------- | ------ | ----------------------------------------------------------------------------------------- | ------------------- | ------- |
-| 25/02/2021 | 0.1    | Criação da Wiki, adição do Rich Picture, da introdução, das legendas e da bibliografia    | Eduarda Servidio    | ------- |
+| Data       | Versão | Descrição                                                                                                    | Autores             | Revisor |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------------------ | ------------------- | ------- |
+| 25/02/2021 | 0.1    | Criação da Aba Pre-Rastreabilidade, adição do Rich Picture, da introdução, das legendas e da bibliografia    | Eduarda Servidio    | ------- |
 
 ## Referências Bibliográficas
 
