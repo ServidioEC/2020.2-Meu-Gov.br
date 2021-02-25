@@ -14,3 +14,4 @@ Slides da apresentação:
 ![image 4](slides/apresentação_3.jpg)
 ![image 5](slides/apresentação_4.jpg)
 ![image 6](slides/apresentação_5.jpg)
+![image 7](slides/apresentação_6.jpg)
