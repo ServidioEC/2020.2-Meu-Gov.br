@@ -5,11 +5,11 @@
 | Data       | Versão | Descrição                        | Autores                   | Revisor |
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
 | 16/02/2021 | 0.1    | Criação da Wiki Planejamento     | Eduarda S. e Luis Gustavo | ------- |
-| 25/02/2021 | 0.2    | Atualização da Wiki Planejamento | Todos os membros          | ------- |
+| 25/02/2021 | 0.2    | Atualização da Wiki Planejamento | Todos os membros          | Eduarda |
 
 ## Justificativa de escolha do aplicativo
 
-Em consenso, a equipe escolheu o app [Meu Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US) para a realização do projeto da matéria Requisitos de Software. Vimos, nele, potencial de melhora, como disponibilizar outros documentos oficiais além dos já encontrados na plataforma.
+Em consenso, a equipe escolheu o app [Meu Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US) para a realização do projeto da matéria Requisitos de Software. Vimos no aplicativo, um possível potencial de melhora, como por exemplo, disponibilizar outros documentos oficiais além dos já encontrados na plataforma.
 
 ## Outros aplicativos analisados
 
@@ -25,7 +25,7 @@ Em consenso, a equipe escolheu o app [Meu Gov.br](https://play.google.com/store/
 
 Os 5 membros da equipe possuem disponibilidade nas Terças, Quintas e Sextas de 10h as 12h.
 
-## Cronograma
+## Cronograma das atividades
 
 | Entrega                         | Data de entrega esperada | Data de entrega limite |
 | ------------------------------- | ------------------------ | ---------------------- |
@@ -36,7 +36,7 @@ Os 5 membros da equipe possuem disponibilidade nas Terças, Quintas e Sextas de 
 | Análise de Requisitos           | 08/04/2021               | 15/04/2021             |
 | Projeto Final                   | 26/04/2021               | 03/05/2021             |
 
-Estipulamos uma dedicaçao semanal de 8 horas semanais por membro da equipe
+Estipulamos uma dedicaçao semanal de 8 horas por membro da equipe.
 
 ## Ferramentas
 
