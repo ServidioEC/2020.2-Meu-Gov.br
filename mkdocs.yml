@@ -16,7 +16,7 @@ nav:
     - Planejamento: 'Planejamento/Planejamento.md'
     - Elicitação: 'Elicitacao/'
     - Pré-rastreabilidade:
-          - Rich Picture: 'RichPicture/'
+          - Rich Picture: 'Rich_Picture.md'
     - Modelagem de Requisitos (Geral): 'Modelagem_Requisitos(Geral)/'
     - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
     - Análise de Requisitos: 'Analise_Requisitos/'
