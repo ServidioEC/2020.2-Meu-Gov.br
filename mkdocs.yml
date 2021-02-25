@@ -1,10 +1,23 @@
-site_name: Meu-gov.br
+site_name: Meu gov.br
 theme:
     name: material
     favicon: Images/logo.png
     logo: Images/logo.png
+
 nav:
     - Home: index.md
-    - Planejamento: Planejamento/plan.md
-
+    - Apresentações:
+          - Apresentação 01: 'Apresentacao/Apresentacao_PC1/apresentacao1.md'
+          - Apresentacao 02: ''
+          - Apresentacao 03: ''
+          - Apresentacao 04: ''
+          - Apresentacao 05: ''
+          - Apresentacao 06: ''
+    - Planejamento: 'Planejamento/Planejamento.md'
+    - Elicitação: 'Elicitacao/'
+    - Pré-rastreabilidade:
+          - Rich Picture: 'RichPicture/'
+    - Modelagem de Requisitos (Geral): 'Modelagem_Requisitos(Geral)/'
+    - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
+    - Análise de Requisitos: 'Analise_Requisitos/'
 docs_dir: docs/
