@@ -1,10 +1,6 @@
 # 2020.2-Meu gov.br
-<<<<<<< HEAD
-<center><img alt = "img_equipe" src="docs/Images/logo.png" width = "400"/></center>
-=======
 
 <img alt = "img_equipe" src="Images/logo.png" width = "400"/>
->>>>>>> bf682c5... Update Wiki
 
 ## Sobre o projeto
 
