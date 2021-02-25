@@ -4,7 +4,7 @@ O Rich Picture é o desenho de uma situação que ilustra os principais elemento
 
 ## Rich Picture
 
-<img alt = "rich_picture" src="docs/Pre-Rastreabilidade/Rich_Picture.jpg" width = "600"/>
+<img alt = "heatmap" src="../../Pre-Rastreabilidade/rich_picture.jpg" width = "600"/>
 
 ## Histórico de Versões
 
