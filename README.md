@@ -1,7 +1,5 @@
 # 2020.2-Meu gov.br
 
-<img alt = "img_equipe" src="/Images/logo.png" width = "400"/>
-
 ## Sobre o projeto
 
 Repositório de documentação do projeto da disciplina de Requisitos de Software sobre o aplicativo Meu gov.br
