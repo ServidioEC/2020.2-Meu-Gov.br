@@ -2,11 +2,12 @@
 
 | Data       | Versão | Descrição         | Autores             | Revisor |
 | ---------- | ------ |------------------ | ------------------- | ------- |
-| 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | ------- |
+| 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | Eduarda |
+| 02/03/2021 | 0.2    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | ------- |
 
 ## Introdução
 
-Essa técnica consiste em entender quais propriedades o sistema deve possuir para que tenha sucesso. Requer que o engenheiro de requisitos imagine como o usuário da aplicação gostaria que sistema funcionasse e quais as suas funcionalidades.
+<p align="justify">Essa técnica consiste em entender quais propriedades o sistema deve possuir para que tenha sucesso. Requer que o engenheiro de requisitos imagine como o usuário da aplicação gostaria que sistema funcionasse e quais as suas funcionalidades.</p>
 
 ## Requisitos
 
