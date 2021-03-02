@@ -3,11 +3,12 @@
 | Data       | Versão | Descrição         | Autores             | Revisor |
 | ---------- | ------ |------------------ | ------------------- | ------- |
 | 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | Eduarda |
+| 02/03/2021 |	0.3	  | Correção de Erros de Digitação |	Eduarda Servidio |	------- |
 | 02/03/2021 | 0.2    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | ------- |
 
 ## Introdução
 
-<p align="justify">Essa técnica consiste em entender quais propriedades o sistema deve possuir para que tenha sucesso. Requer que o engenheiro de requisitos imagine como o usuário da aplicação gostaria que sistema funcionasse e quais as suas funcionalidades.</p>
+<p align="justify">Essa técnica consiste em entender quais propriedades o sistema deve possuir para que tenha sucesso. Requer que o engenheiro de requisitos imagine como o usuário da aplicação gostaria que o sistema funcionasse e quais as suas funcionalidades.</p>
 
 ## Requisitos
 
@@ -20,7 +21,7 @@
 | 5  | O sistema deve disponibilizar documentos oficiais, além do CPF e CNH | Aba de Documentos |
 | 6  | O usuário deve ter a possibilidade de revisar como é feita a proteção dos seus dados | Aba de Proteção de Dados |
 | 7  | O usuário deve ter a possibilidade de ver e rever as instruções sobre o aplicativo | Após o login |
-| 8  | O usuário deve ter a possibilidade de ver e rever a politica de privacidade | Após o login |
+| 8  | O usuário deve ter a possibilidade de ver e rever a política de privacidade | Após o login |
 | 9  | O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha | Após o login |
 | 10 | O usuário deve ser capaz de sair do aplicativo | Após o login |
 
