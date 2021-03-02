@@ -4,11 +4,11 @@
 
 ## Sobre o projeto
 
-Repositório de documentação do projeto da disciplina de Requisitos de Software sobre o aplicativo Meu gov.br
+<p align="justify">Repositório de documentação do projeto da disciplina de Requisitos de Software sobre o aplicativo Meu gov.br</p>
 
 ## Sobre o aplicativo
 
-"O aplicativo faz parte de uma conta única do Governo Federal, permitindo criar sua conta ou trocar sua senha no Login Único por meio de validação facial. Sua principal utilidade é reunir seus documentos em um só lugar e provar com segurança, a sua titularidade em meios digitais."
+<p align="justify">"O aplicativo faz parte de uma conta única do Governo Federal, permitindo criar sua conta ou trocar sua senha no Login Único por meio de validação facial. Sua principal utilidade é reunir seus documentos em um só lugar e provar com segurança, a sua titularidade em meios digitais."</p>
 
 ## Equipe
 
