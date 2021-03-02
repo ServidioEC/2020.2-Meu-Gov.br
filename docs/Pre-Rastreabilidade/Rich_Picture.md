@@ -17,7 +17,7 @@
 ## Referências Bibliográficas
 
 
-<p align="justify">Monk,A; Howard,S. The Rich Picture. A Tool for Reasoning About Work COntext. Disponível em <a href=https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf>. Acesso em 16 de fev. de 2021.</p>
+<p align="justify">Monk,A; Howard,S. The Rich Picture. A Tool for Reasoning About Work Context. Disponível em <a href="https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf">https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf</a>. Acesso em 16 de fev. de 2021.</p>
 
 
-<p align="justify">WAGENINGEN University. Rich Picture. Disponível em <a href=http://www.mspguide.org/tool/rich-picture>. Acesso em 16 de fev. de 2021.</p>
+<p align="justify">WAGENINGEN University. Rich Picture. Disponível em <a href="http://www.mspguide.org/tool/rich-picture">http://www.mspguide.org/tool/rich-picture.</a> Acesso em 16 de fev. de 2021.</p>
