@@ -37,9 +37,9 @@ Autor: Eduarda Servidio
 | Nome           | Ana Júlia    | 
 | Idade          | 17 anos      |
 | Profissão      | Estudante    |
-| Hábito         | Está se preparando para o vestibular     |
+| Hábito         | Estudando para o vestibular     |
 
-<img alt = "Storyboard_2" src="../Imagens_storyboard/"/>
+<img alt = "Storyboard_2" src="../Imagens_storyboard/storyboard2.jpg"/>
 
 Autor: Eduarda Servidio
 
