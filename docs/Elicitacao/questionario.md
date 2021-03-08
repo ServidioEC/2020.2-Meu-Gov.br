@@ -17,36 +17,38 @@ O grupo montou um questionário, via google forms, com 15 perguntas, sendo a úl
 
 # Resultados
 
-<img alt="genero" src="Images_questionario/genero.png" />
+<img alt="genero" src="../Images_questionario/genero.png" />
 
-<img alt="idade" src="Images_questionario/idade.png" />
+<img alt="idade" src="../Images_questionario/idade.png" />
 
-<img alt="Utiliza aplicativos de celular" src="Images_questionario/usa-aplicativos.png" />
+<img alt="Utiliza aplicativos de celular" src="../Images_questionario/usa-aplicativos.png" />
 
-<img alt="utiliza meu gov " src="Images_questionario/aplicativo-meu-gov.png" />
+<img alt="utiliza meu gov " src="../Images_questionario/aplicativo-meu-gov.png" />
 
-<img alt="troca documentos fisicos" src="Images_questionario/trocar-documentos.png" />
+<img alt="troca documentos fisicos" src="../Images_questionario/trocar-documentos.png" />
 
-<img alt="utiliza documentos digitais dia a dia " src="Images_questionario/utiliza-documentos.png" />
+<img alt="utiliza documentos digitais dia a dia " src="../Images_questionario/utiliza-documentos.png" />
 
 Caso seja informado que utiliza app meu gov
 
-<img alt="frequencia-gov " src="Images_questionario/frequencia-meugov.png" />
+<img alt="frequencia-gov " src="../Images_questionario/frequencia-meugov.png" />
 
-<img alt="classifica  " src="Images_questionario/como-classifica-sua-experiencia.png" />
+<img alt="classifica  " src="../Images_questionario/como-classifica-sua-experiencia.png" />
 
-<img alt="quão útil considera o aplicativo" src="Images_questionario/util.png" />
+<img alt="quão útil considera o aplicativo" src="../Images_questionario/util.png" />
 
 Caso seja informado que não utiliza documentos digitais.
 
-<img alt="quão o motivo" src="Images_questionario/nao-utiliza.png" />
+<img alt="quão o motivo" src="../Images_questionario/nao-utiliza.png" />
 
 Caso seja informado que utiliza documentos digitais
 
-<img alt="Quantos Documentos" src="Images_questionario/quantos-documentos.png" />
+<img alt="Quantos Documentos" src="../Images_questionario/quantos-documentos.png" />
 
-<img alt="qual frequencia utiliza documentos digitais" src="Images_questionario/frequencia-aplicativos.png" />
+<img alt="qual frequencia utiliza documentos digitais" src="../Images_questionario/frequencia-aplicativos.png" />
 
-<img alt="falta algum documento" src="Images_questionario/sente-falta-documento.png" />
+<img alt="falta algum documento" src="../Images_questionario/sente-falta-documento.png" />
 
-<img alt="Qual ?" src="Images_questionario/doc-vers-digital.png" />
+<img alt="Qual ?" src="../Images_questionario/doc-vers-digital.png" />
+
+# analise
