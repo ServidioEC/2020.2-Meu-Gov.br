@@ -17,7 +17,7 @@ nav:
     - Pré-rastreabilidade: 'Pre-Rastreabilidade/Rich_Picture.md'
     - Elicitação:
           - Introspecção: 'Elicitacao/introspeccao.md'
-          - Questionario: 'Elicitacao/questionario.md'
+          - Questionário: 'Elicitacao/questionario.md'
           - Storyboard: 'Elicitacao/storyboard.md'
     - Modelagem de Requisitos (Geral): 'Modelagem_Requisitos(Geral)/'
     - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
