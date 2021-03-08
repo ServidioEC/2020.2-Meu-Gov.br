@@ -17,7 +17,7 @@
 
 <p align="justify">O grupo montou um questionário, via Google Forms, com 15 perguntas. Sendo a última uma questão aberta solicitando um feedback sobre novas funções ou uma sugestão que o usuário quisesse apontar. A depender das respostas que os usuários davam, perguntas diferentes apareciam para eles, visto que não fazia sentido perguntar há uma pessoa que não utiliza o aplicativo meu-gov.br,a experiência dela com o aplicativo, por exemplo. Nosso Questionário foi aplicado entre os dias 01/03/2021 até o dia 06/03/2021, quando esses dados foram colhidos para análise. Tivemos 120 respostas.</p>
 
-# Resultados:
+## Resultados
 
 <img alt="genero" src="../Images_questionario/genero.png" />
 
@@ -39,7 +39,7 @@
 
 <img alt="quão útil considera o aplicativo" src="../Images_questionario/util.png" />
 
-Caso seja informado que não utiliza documentos digitais.
+### Caso seja informado que não utiliza documentos digitais:
 
 <img alt="quão o motivo" src="../Images_questionario/nao-utiliza.png" />
 
