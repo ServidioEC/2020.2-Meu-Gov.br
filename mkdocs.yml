@@ -18,6 +18,7 @@ nav:
     - Elicitação:
           - Introspecção: 'Elicitacao/introspeccao.md'
           - Questionario: 'Elicitacao/questionario.md'
+          - Storyboard: 'Elicitacao/storyboard.md'
     - Modelagem de Requisitos (Geral): 'Modelagem_Requisitos(Geral)/'
     - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
     - Análise de Requisitos: 'Analise_Requisitos/'
