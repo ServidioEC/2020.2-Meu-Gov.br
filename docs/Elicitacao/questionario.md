@@ -55,7 +55,7 @@
 
 # Análise
 
-<p align="justify">Pode-se perceber pela analise das respostas que boa parte das pessoas está disposta a realizar a troca da maioria de seus documentos fisicos para o meio digital, a maioria das pessoas não conhecia o aplicativo meu-gov, muito possivelmente por uma falta de informação e propaganda para a utilização do aplicativo, como a falta de funcionalidades que poderiam estar disponiveis neste aplicativo. uma parte consideravel dos participantes tambem preferiram não utilizar o app meu gov ou outro aplicativo de documentação digital por não se sentirem seguras ao armazenar dados sensíveis no meio digital.</p>
+<p align="justify">Pode-se perceber pela análise das respostas que boa parte das pessoas está disposta a realizar a troca da maioria de seus documentos físicos para o meio digital. A maioria das pessoas não conheciam o aplicativo Meu gov.br, muito possivelmente por uma falta de informação e propaganda para a utilização do aplicativo, como a falta de funcionalidades que poderiam estar disponiveis neste aplicativo. Uma parte considerável dos participantes também preferiram não utilizar o app Meu gov.br ou outro aplicativo de documentação digital por não se sentirem seguras ao armazenar dados sensíveis no meio digital.</p>
 
 # Requisitos
 
