@@ -4,6 +4,7 @@
 | ---------- | ------ | ----------------------------------------------------- | ------------ | ------- |
 | 28/02/2021 | 0.1    | Criação do documento                                  | Luis Marques | ----    |
 | 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas | Luis Marques | ----    |
+| 08/03/2021 | 0.2    | Adição de requisitos                                  | Luis Marques | ----    |
 
 ## Introdução
 
@@ -52,3 +53,22 @@ Caso seja informado que utiliza documentos digitais
 <img alt="Qual ?" src="../Images_questionario/doc-vers-digital.png" />
 
 # analise
+
+Pode-se perceber pela analise das respostas que boa parte das pessoas está disposta a realizar a troca da maioria de seus documentos fisicos para o meio digital, a maioria das pessoas não conhecia o aplicativo meu-gov, muito possivelmente por uma falta de informação e propaganda para a utilização do aplicativo, como a falta de funcionalidades que poderiam estar disponiveis neste aplicativo. uma parte consideravel dos participantes tambem preferiram não utilizar o app meu gov ou outro aplicativo de documentação digital por não se sentirem seguras ao armazenar dados sensíveis no meio digital.
+
+# Requisitos
+
+Os requisitos levantados por este metodo foram:
+
+| ID  | Descrição                                                                                                            |
+| --- | -------------------------------------------------------------------------------------------------------------------- |
+| 1   | O login do usuario deve ser armazenado, de forma que ele não precise fazer login a cada entrada no aplicativo        |
+| 2   | O sistema deve disponibilizar em formato digital o Certificade de Dispensa de incorporação/certificado de reservista |
+| 3   | O sistema deve disponibilizar em formato digital o CRV                                                               |
+| 4   | O sistema deve disponibilizar em formato digital o Passaporte                                                        |
+| 5   | O sistema deve disponibilizar em formato digital a Identidade                                                        |
+| 6   | O sistema deve disponibilizar em formato digital a certidão de nascimento                                            |
+| 7   | O sistema deve disponibilizar em formato digital o titulo de eleitor                                                 |
+| 8   | O sistema deve disponibilizar em formato digital a carteira de trabalho                                              |
+| 9   | O sistema deve disponibilizar em formato digital a carteira de vacinação                                             |
+| 10  | O sistema deve disponibilizar em formato digital a Certidão de casamento                                             |
