@@ -1,11 +1,12 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                             | Autores      | Revisor |
-| ---------- | ------ | ----------------------------------------------------- | ------------ | ------- |
-| 28/02/2021 | 0.1    | Criação do documento                                  | Luis Marques | Eduarda |
-| 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas | Luis Marques | Eduarda |
-| 08/03/2021 | 0.3    | Adição de requisitos                                  | Luis Marques | Eduarda |
-| 08/03/2021 | 0.4    | Correção de erros e melhora do visual                 | Eduarda Servidio | ----    |
+| Data       | Versão | Descrição                                                          | Autores          | Revisor      |
+| ---------- | ------ | ------------------------------------------------------------------ | ---------------- | ------------ |
+| 28/02/2021 | 0.1    | Criação do documento                                               | Luis Marques     | Eduarda      |
+| 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas              | Luis Marques     | Eduarda      |
+| 08/03/2021 | 0.3    | Adição de requisitos                                               | Luis Marques     | Eduarda      |
+| 08/03/2021 | 0.4    | Correção de erros e melhora do visual                              | Eduarda Servidio | Luis Marques |
+| 09/03/2021 | 0.5    | Correção Para mostrar índice corretamente, inclusão de referências | Luis Marques     | ----         |
 
 ## Introdução
 
@@ -53,11 +54,11 @@
 
 <img alt="Qual ?" src="../Images_questionario/doc-vers-digital.png" />
 
-# Análise
+## Análise
 
 <p align="justify">Pode-se perceber pela análise das respostas que boa parte das pessoas está disposta a realizar a troca da maioria de seus documentos físicos para o meio digital. A maioria das pessoas não conheciam o aplicativo Meu gov.br, muito possivelmente por uma falta de informação e propaganda para a utilização do aplicativo, como a falta de funcionalidades que poderiam estar disponiveis neste aplicativo. Uma parte considerável dos participantes também preferiram não utilizar o app Meu gov.br ou outro aplicativo de documentação digital por não se sentirem seguras ao armazenar dados sensíveis no meio digital.</p>
 
-# Requisitos
+## Requisitos
 
 Os requisitos levantados por este método foram:
 
@@ -73,3 +74,7 @@ Os requisitos levantados por este método foram:
 | 8   | O sistema deve disponibilizar em formato digital a Carteira de Trabalho                                              |
 | 9   | O sistema deve disponibilizar em formato digital a Carteira de Vacinação                                             |
 | 10  | O sistema deve disponibilizar em formato digital a Certidão de Casamento                                             |
+
+## Referências
+
+VAZQUEZ,Carlos,SIMÕES,Guilherme, Engenharia de Requisitos,1ª edição,Editora Brasport,10 de agosto de 2016.

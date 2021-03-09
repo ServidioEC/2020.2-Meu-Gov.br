@@ -3,6 +3,16 @@ theme:
     name: material
     favicon: Images/logo.png
     logo: Images/logo.png
+    language: pt
+    features:
+        - navigation.tabs
+        - header.autohide
+
+extra:
+    generator: false
+
+hide:
+    - toc
 
 nav:
     - Home: index.md
@@ -20,8 +30,8 @@ nav:
           - Questionário: 'Elicitacao/questionario.md'
           - Storyboard: 'Elicitacao/storyboard.md'
           - Priorização:
-            - First Things First: 'Elicitacao/Priorizacao/ftf.md'
-            - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
+                - First Things First: 'Elicitacao/Priorizacao/ftf.md'
+                - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
     - Modelagem de Requisitos (Geral): 'Modelagem_Requisitos(Geral)/'
     - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
     - Análise de Requisitos: 'Analise_Requisitos/'
