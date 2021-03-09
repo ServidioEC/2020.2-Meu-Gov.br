@@ -42,7 +42,7 @@
 | 5  | O sistema deve disponibilizar em formato digital a Identidade                                                        | Should have
 | 6  | O sistema deve disponibilizar em formato digital a Certidão de Nascimento                                            | Could have
 | 7  | O sistema deve disponibilizar em formato digital o Título de Eleitor                                                 | Could have
-| 8  | O sistema deve disponibilizar em formato digital a Carteira de Trabalho                                              | Won't have
+| 8  | O sistema deve disponibilizar em formato digital a Carteira de Trabalho                                              | Could have
 | 9  | O sistema deve disponibilizar em formato digital a Carteira de Vacinação                                             | Won't have
 | 10 | O sistema deve disponibilizar em formato digital a Certidão de Casamento                                             | Could have
 
@@ -58,4 +58,4 @@
 | 7  | O sistema deve apresentar uma tela principal com as funcionalidades disponíveis para o usuário | Must have
 
 ## Referências
-- PIRES, Raphael. "Aprenda a usar a técnica MoSCoW nos projetos da sua agência!". Rockcontent, 2019. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/. Acesso em: 08 de março de 2020.
+- PIRES, Raphael. "Aprenda a usar a técnica MoSCoW nos projetos da sua agência!". Rockcontent, 2019. Disponível em: <https://rockcontent.com/br/blog/metodo-moscow/>. Acesso em: 08 de março de 2020.
