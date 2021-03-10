@@ -5,6 +5,7 @@
 | 08/03/2021 | 0.1    | Criação do documento e adição da introdução.                                              | Pedro Haick      | ------- |
 | 10/03/2021 | 0.2    | Descrição do método de priorização.                                              | Pedro Haick      | ------- |
 | 10/03/2021 | 0.3    | Priorização dos requisitos elicitados por instrospecção.                                              | Pedro Haick      | ------- |
+| 10/03/2021 | 0.4    | Priorização dos requisitos elicitados por questionário.                                              | Pedro Haick      | ------- |
 
 ## Definição
 
@@ -39,5 +40,14 @@ Os requisitos elicitados que são vitais para o software não foram considerados
 | ID | Descrição | Benefício Relativo | Penalidade Relativa | Valor Relativo | Valor Percentual | Custo Relativo | Custo Percentual | Risco Relativo | Risco Percentual | Prioridade |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 I7 |	O usuário deve ter a possibilidade de ver e rever as instruções sobre o aplicativo |	8 |	6 |	14 |	10.07% |	1 |	5.56% |	1 |	4.55% |	1.00 |
+Q4 |	O sistema deve disponibilizar em formato digital o Passaporte |	7 |	5 |	12 |	8.63% |	1 |	5.56% |	1 |	4.55% |	0.85 |
+Q5 |	O sistema deve disponibilizar em formato digital a Identidade |	7 |	5 |	12 |	8.63% |	1 |	5.56% |	1 |	4.55% |	0.85 |
+Q6 |	O sistema deve disponibilizar em formato digital a Certidão de Nascimento |	7 |	4 |	11 |	7.91% |	1 |	5.56% |	1 |	4.55% |	0.78 |
+Q8 |	O sistema deve disponibilizar em formato digital a Carteira de Trabalho |	8 |	3 |	11 |	7.91% |	1 |	5.56% |	1 |	4.55% |	0.78 |
 I5 |	O sistema deve disponibilizar documentos oficiais, além do CPF e CNH |	6 |	4 |	10 |	7.19% |	1 |	5.56% |	1 |	4.55% |	0.71 |
-I9 |	O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha |	8 |	7 |	15 |	10.79% |	3 |	16.67% |	5 |	22.73% |	0.27 | 																				
+Q2 |	O sistema deve disponibilizar em formato digital o Certificado de Dispensa de incorporação/certificado de reservista |	5 |	4 |	9 |	6.47% |	1 |	5.56% |	1 |	4.55% |	0.64 |	
+Q7 |	O sistema deve disponibilizar em formato digital o Título de Eleitor |	6 |	3 |	9 |	6.47% |	1 |	5.56% |	1 |	4.55% |	0.64 |
+Q3 |	O sistema deve disponibilizar em formato digital o CRV |	5 |	3 |	8 |	5.76% |	1 |	5.56% |	1 |	4.55% |	0.57 |
+Q9 |	O sistema deve disponibilizar em formato digital a Carteira de Vacinação |	5 |	2 |	7 |	5.04% |	1 |	5.56% |	1 |	4.55% |	0.50 |
+Q10 |	O sistema deve disponibilizar em formato digital a Certidão de Casamento |	4 |	2 |	6 |	4.32% |	1 |	5.56% |	1 |	4.55% |	0.43 |
+I9 |	O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha |	8 |	7 |	15 |	10.79% |	3 |	16.67% |	5 |	22.73% |	0.27 |																		
