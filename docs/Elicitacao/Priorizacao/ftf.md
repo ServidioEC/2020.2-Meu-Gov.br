@@ -7,6 +7,7 @@
 | 10/03/2021 | 0.3    | Priorização dos requisitos elicitados por instrospecção.                                              | Pedro Haick      | ------- |
 | 10/03/2021 | 0.4    | Priorização dos requisitos elicitados por questionário.                                              | Pedro Haick      | ------- |
 | 10/03/2021 | 0.5    | Priorização dos requisitos elicitados por storyboard.                                              | Pedro Haick      | ------- |
+| 10/03/2021 | 0.6    | Adição dos pesos e referências utilizadas.                                              | Pedro Haick      | ------- |
 
 ## Definição
 
@@ -52,4 +53,14 @@ Q3 |	O sistema deve disponibilizar em formato digital o CRV |	5 |	3 |	8 |	5.76% 
 Q9 |	O sistema deve disponibilizar em formato digital a Carteira de Vacinação |	5 |	2 |	7 |	5.04% |	1 |	5.56% |	1 |	4.55% |	0.50 |
 Q10 |	O sistema deve disponibilizar em formato digital a Certidão de Casamento |	4 |	2 |	6 |	4.32% |	1 |	5.56% |	1 |	4.55% |	0.43 |
 I9 |	O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha |	8 |	7 |	15 |	10.79% |	3 |	16.67% |	5 |	22.73% |	0.27 |
-S5 |	O sistema deve realizar a validação facial dos usuários para uma maior segurança dos dados |	8 |	7 |	15 |	10.79% |	4 |	22.22% |	6 |	27.27% |	0.22 																		
+S5 |	O sistema deve realizar a validação facial dos usuários para uma maior segurança dos dados |	8 |	7 |	15 |	10.79% |	4 |	22.22% |	6 |	27.27% |	0.22 
+
+## Pesos utilizados no cálculo de prioridades:
+ * Benefício Relativo: 1
+ * Penalidade Relativa: 1
+ * Custo Relativo: 1
+ * Risco Relativo: 1
+
+## Referências
+
+WIEGERS, Karl E. - First Things First: Prioritizing Requirements. (https://www.processimpact.com/articles/prioritizing.pdf)
