@@ -1,5 +1,10 @@
 # Apresentação 02 - Elicitação e Priorização
 
+| Data       | Versão | Descrição                         | Autores                   | Revisor |
+| ---------- | ------ | --------------------------------- | ------------------------- | ------- |
+| 10/03/2021 | 0.1    | Criação do documento              | Eduarda Servidio          | Luis G. |
+| 11/03/2021 | 0.2    | Correção do Link da Apresentação  | Luis Gustavo              | Eduarda |
+
 ## Link da apresentação
 
 <iframe width="820" height="500" src="https://www.youtube.com/watch?v=5HOFDuKIti4" frameborder="0"
