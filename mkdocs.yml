@@ -17,7 +17,7 @@ hide:
 nav:
     - Home: index.md
     - Apresentações:
-          - Apresentação 01: 'Apresentacao/Apresentacao_PC1/apresentacao1.md'
+          - Apresentação 01: 'Apresentacao/apresentacao1.md'
           - Apresentacao 02: 'Apresentacao/apresentacao2.md'
           - Apresentacao 03: ''
           - Apresentacao 04: ''
