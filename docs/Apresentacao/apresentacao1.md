@@ -2,10 +2,10 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                        | Autores                   | Revisor |
-| ---------- | ------ | -------------------------------- | ------------------------- | ------- |
-| 16/02/2021 | 0.1    | Criação do documento             | Luis Gustavo              | Eduarda |
-| 10/03/2021 | 0.2    | Melhora do Visual                | Eduarda Servidio          | ------- |
+| Data       | Versão | Descrição                        | Autores                   | Revisor          |
+| ---------- | ------ | -------------------------------- | ------------------------- | ---------------- |
+| 16/02/2021 | 0.1    | Criação do documento             | Luis Gustavo              | Eduarda Servidio |
+| 10/03/2021 | 0.2    | Melhora do Visual                | Eduarda Servidio          | Luis Gustavo     |
 
 ## Link da apresentação
 
