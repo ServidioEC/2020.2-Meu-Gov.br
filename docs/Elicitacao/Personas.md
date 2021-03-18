@@ -2,9 +2,7 @@
 
 | Data       | Versão | Descrição                                                                                            | Autores          | Revisor      |
 | ---------- | ------ | ---------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| 08/03/2021 | 0.1    | Criação do documento e adição da introdução e metodologia.                                           | Eduarda Servidio | Luis Marques |
-| 08/03/2021 | 0.2    | Adição das personas, dos storyboards, dos requisitos e das referências. Bem como, melhora do visual. | Eduarda Servidio | Luis Marques |
-| 08/03/2021 | 0.3    | Correção Para mostrar índice corretamente                                                            | Luis Marques     | ----         |
+| 18/03/2021 | 0.1    | Criação do documento e adição das personas                                           | Eduarda Servidio | Luis Marques |
 
 ## Introdução
 
