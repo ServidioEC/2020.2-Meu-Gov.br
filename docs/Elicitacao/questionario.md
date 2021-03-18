@@ -6,7 +6,7 @@
 | 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas              | Luis Marques     | Eduarda      |
 | 08/03/2021 | 0.3    | Adição de requisitos                                               | Luis Marques     | Eduarda      |
 | 08/03/2021 | 0.4    | Correção de erros e melhora do visual                              | Eduarda Servidio | Luis Marques |
-| 09/03/2021 | 0.5    | Correção Para mostrar índice corretamente, inclusão de referências | Luis Marques     | ----         |
+| 09/03/2021 | 0.5    | Correção Para mostrar índice corretamente, inclusão de referências | Luis Marques     | Eduarda      |
 
 ## Introdução
 
