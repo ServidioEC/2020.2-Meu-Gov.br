@@ -20,24 +20,10 @@ StoryBoard é a técnica que usa ilustrações em sequência para contar uma his
 
 ### Primeira Persona:
 
-|           | Persona                                                 |
-| --------- | ------------------------------------------------------- |
-| Nome      | Marcos Jorge                                            |
-| Idade     | 43 anos                                                 |
-| Profissão | Autônomo                                                |
-| Hábito    | Frequentemente, esquece seus documentos físicos em casa |
-
 <img alt = "Storyboard_1" src="../Imagens_storyboard/storyboard1.jpg"/>
 Autor: Eduarda Servidio
 
 ### Segunda Persona:
-
-|           | Persona                     |
-| --------- | --------------------------- |
-| Nome      | Ana Júlia                   |
-| Idade     | 17 anos                     |
-| Profissão | Estudante                   |
-| Hábito    | Estudando para o vestibular |
 
 <img alt = "Storyboard_2" src="../Imagens_storyboard/storyboard2.jpg"/>
 
