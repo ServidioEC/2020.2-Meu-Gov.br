@@ -27,4 +27,4 @@
 
 ## Referências 
 
-- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
