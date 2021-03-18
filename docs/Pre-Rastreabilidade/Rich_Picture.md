@@ -3,8 +3,8 @@
 | Data       | Versão | Descrição       | Autores             | Revisor |
 | ---------- | ------ | --------------- | ------------------- | ------- |
 | 25/02/2021 | 0.1    | Criação da Aba Pre-Rastreabilidade, adição do Rich Picture, da introdução, das legendas e da bibliografia    | Eduarda Servidio    | Gabriela Pivetta |
-| 28/02/2021 | 0.2    | Correção na ordem dos elementos da página | Gabriela Pivetta  | ------- |
-| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | ------- |
+| 28/02/2021 | 0.2    | Correção na ordem dos elementos da página | Gabriela Pivetta  | Eduarda Servidio |
+| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | Gabriela Pivetta |
 
 ## Introdução
 
