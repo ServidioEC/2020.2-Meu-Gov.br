@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição                                      | Autores          | Revisor          |
 | ---------- | ------ | -------------------------------------------    | ---------------- | ---------------- |
 | 08/03/2021 | 0.1    | Criação e elaboração do documento              | Giovana Dionisio | Gabriela Pivetta |
-| 18/03/2021 | 0.2    | Correções com base no _feedback_ da aula 13    | Giovana Dionisio |     --------     |
+| 18/03/2021 | 0.2    | Correções com base no _feedback_ da aula 13    | Giovana Dionisio | Eduarda Servidio |
 
 ## Introdução
 <p align="justify"> MoSCoW é um método utilizado para a priorização de requisitos criado por Dai Clegg em meados dos anos 90. Muito utilizada em metodologias ágeis, essa técnica consiste na classificação de cada requisito de acordo com a importância de cada um. Neste cenário, os requisitos podem ser classificados em: </p>
