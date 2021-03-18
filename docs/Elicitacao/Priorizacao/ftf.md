@@ -2,12 +2,12 @@
 
 | Data       | Versão | Descrição                                                                                               | Autores          | Revisor |
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| 08/03/2021 | 0.1    | Criação do documento e adição da introdução.                                              | Pedro Haick      | ------- |
-| 10/03/2021 | 0.2    | Descrição do método de priorização.                                              | Pedro Haick      | ------- |
-| 10/03/2021 | 0.3    | Priorização dos requisitos elicitados por instrospecção.                                              | Pedro Haick      | ------- |
-| 10/03/2021 | 0.4    | Priorização dos requisitos elicitados por questionário.                                              | Pedro Haick      | ------- |
-| 10/03/2021 | 0.5    | Priorização dos requisitos elicitados por storyboard.                                              | Pedro Haick      | ------- |
-| 10/03/2021 | 0.6    | Adição dos pesos e referências utilizadas.                                              | Pedro Haick      | ------- |
+| 08/03/2021 | 0.1    | Criação do documento e adição da introdução.                                              | Pedro Haick      | Giovana D. |
+| 10/03/2021 | 0.2    | Descrição do método de priorização.                                              | Pedro Haick      | Giovana D. |
+| 10/03/2021 | 0.3    | Priorização dos requisitos elicitados por instrospecção.                                              | Pedro Haick      | Giovana D. |
+| 10/03/2021 | 0.4    | Priorização dos requisitos elicitados por questionário.                                              | Pedro Haick      | Giovana D. |
+| 10/03/2021 | 0.5    | Priorização dos requisitos elicitados por storyboard.                                              | Pedro Haick      | Giovana D. |
+| 10/03/2021 | 0.6    | Adição dos pesos e referências utilizadas.                                              | Pedro Haick      | Giovana D. |
 
 ## Definição
 
