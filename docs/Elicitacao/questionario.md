@@ -1,12 +1,12 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                                          | Autores          | Revisor      |
-| ---------- | ------ | ------------------------------------------------------------------ | ---------------- | ------------ |
-| 28/02/2021 | 0.1    | Criação do documento                                               | Luis Marques     | Eduarda      |
-| 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas              | Luis Marques     | Eduarda      |
-| 08/03/2021 | 0.3    | Adição de requisitos                                               | Luis Marques     | Eduarda      |
-| 08/03/2021 | 0.4    | Correção de erros e melhora do visual                              | Eduarda Servidio | Luis Marques |
-| 09/03/2021 | 0.5    | Correção Para mostrar índice corretamente, inclusão de referências | Luis Marques     | Eduarda      |
+| Data       | Versão | Descrição                                                          | Autores          | Revisor               |
+| ---------- | ------ | ------------------------------------------------------------------ | ---------------- | --------------------- |
+| 28/02/2021 | 0.1    | Criação do documento                                               | Luis Marques     | Eduarda Servidio      |
+| 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas              | Luis Marques     | Eduarda Servidio      |
+| 08/03/2021 | 0.3    | Adição de requisitos                                               | Luis Marques     | Eduarda Servidio      |
+| 08/03/2021 | 0.4    | Correção de erros e melhora do visual                              | Eduarda Servidio | Luis Gustavo          |
+| 09/03/2021 | 0.5    | Correção Para mostrar índice corretamente, inclusão de referências | Luis Marques     | Eduarda Servidio      |
 
 ## Introdução
 
