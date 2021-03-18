@@ -13,9 +13,8 @@
 
 ## Slides da apresentação
 
-<iframe width="820" height="500" src="https://docs.google.com/presentation/d/1ZkYPh9xsNL46Hrups32T6Y7UrDGE6OGKjZ1c6KPVmXQ/edit?usp=sharing" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
+<src="https://docs.google.com/presentation/d/1ZkYPh9xsNL46Hrups32T6Y7UrDGE6OGKjZ1c6KPVmXQ/edit?usp=sharing">
+    
 Slides criados na ferramenta Photoshop e transferidos para Apresentações Online do Google
 
 ## Contribuições para a Segunda Apresentação
