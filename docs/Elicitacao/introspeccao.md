@@ -2,9 +2,9 @@
 
 | Data       | Versão | Descrição         | Autores             | Revisor |
 | ---------- | ------ |------------------ | ------------------- | ------- |
-| 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | Eduarda |
-| 02/03/2021 | 0.2	  | Correção de Erros de Digitação |	Eduarda Servidio |	Luis |
-| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | Luis |
+| 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | Eduarda Servidio|
+| 02/03/2021 | 0.2	  | Correção de Erros de Digitação |	Eduarda Servidio |	Luis Gustavo |
+| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | Luis Gustavo |
 
 ## Introdução
 
