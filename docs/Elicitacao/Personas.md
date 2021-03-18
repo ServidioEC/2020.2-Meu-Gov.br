@@ -2,61 +2,56 @@
 
 | Data       | Versão | Descrição                                                                                            | Autores          | Revisor      |
 | ---------- | ------ | ---------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| 18/03/2021 | 0.1    | Criação do documento e adição das personas                                           | Eduarda Servidio | Luis Marques |
+| 18/03/2021 | 0.1    | Criação do documento e adição das personas                                                           | Eduarda Servidio | Luis Marques |
 
-## Introdução
+## Descrição e Motivação
 
-<p align="justify">"O Storyboard é um guia visual que traz as principais cenas de um produto de forma rápida e objetiva. Ou seja, uma espécie de histórias em quadrinhos que retrata, na íntegra, o conteúdo de um material. A intenção dessa ferramenta é oferecer uma ‘prévia’ daquilo que será produzido, dando uma noção mais exata possível do produto final."
+<p align="justify">"Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário."(Barbosa e Silva, 2019, p. 176)</p>
 
-StoryBoard é a técnica que usa ilustrações em sequência para contar uma história com o objetivo de mostrar situações de uso dos requisitos de um sistema.</p>
+##Personas
+### Primeira Persona
 
-## Metodologia
+|              | Persona                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| Foto         | <img alt= "persona-1" src="../Images_personas/Persona_1.jpg" width = "300" />                   |
+| Nome         | Marcos Jorge                                                                                    |
+| Idade        | 43 anos                                                                                         |
+| Profissão    | Autônomo                                                                                        |
+| Hábito       | Frequentemente, esquece seus documentos físicos em casa                                         |
+| Objetivo     | Ter acesso aos seus documentos durante o dia                                                    |
+| Expectativas | Ter acesso aos seus documentos de forma digital quando esquecer seus documentos físicos em casa |
 
-<p align="justify">Foram criadas duas personas e, a partir delas, dois storyboards, que ilustram o possível uso do aplicativo Meu Gov.br, através da ferramenta Storyboard That.</p>
+<p align="justify">Marcos Jorge é autônomo e leva a vida de forma estressante e corrida. Todos os dias, ele sai às pressas de casa para trabalhar. Frequentemente, ao sair, ele acaba esquecendo seus documentos físicos em casa e vem precisando deles ao longo do dia.</p>
 
-## Storyboard
+### Segunda Persona
 
-### Primeira Persona:
+|              | Persona                                                                       |
+| ------------ | ----------------------------------------------------------------------------- |
+| Foto         | <img alt= "persona-2" src="../Images_personas/Persona_2.jpg" width = "300" /> |
+| Nome         | Ana Júlia                                                                     |
+| Idade        | 17 anos                                                                       |
+| Profissão    | Estudante                                                                     |
+| Hábito       | Estudando para o vestibular                                                   |
+| Objetivo     | Validar seu CPF de alguma forma                                               |
+| Expectativas | Conseguir validar seu CPF pelo aplicativo Meu Gov.br                          |
 
-|           | Persona                                                 |
-| --------- | ------------------------------------------------------- |
-| Nome      | Marcos Jorge                                            |
-| Idade     | 43 anos                                                 |
-| Profissão | Autônomo                                                |
-| Hábito    | Frequentemente, esquece seus documentos físicos em casa |
+<p align="justify">Ana Júlia é estudante e está finalizando o Ensino Médio. Para participar dos Vestibulares Federais, ela precisa ter os documentos de Identidade e CPF. Ansiosa demais, Ana Júlia esqueceu de colocar em sua identidade o número do seu CPF. Agora, ela precisa ter uma forma que valide seu CPF.</p>
 
-<img alt = "Storyboard_1" src="../Imagens_storyboard/storyboard1.jpg"/>
-Autor: Eduarda Servidio
+### Anti-Persona
 
-### Segunda Persona:
+|              | Persona                                                                           |
+| ------------ | --------------------------------------------------------------------------------- |
+| Foto         | <img alt= "antipersona" src="../Images_personas/AntiPersona.jpg" width = "300" /> |
+| Nome         | Sophia                                                                            |
+| Idade        | 8 anos                                                                            |
+| Profissão    | Estudante                                                                         |
+| Hábito       | Cursando o Ensino Fundamental 1                                                   |
+| Objetivo     | Domínio da Leitura e da Escrita                                                   |
+| Expectativas | Espera encontrar exercícios de leitura e escrita no aplicativo Meu Gov.br         |
 
-|           | Persona                     |
-| --------- | --------------------------- |
-| Nome      | Ana Júlia                   |
-| Idade     | 17 anos                     |
-| Profissão | Estudante                   |
-| Hábito    | Estudando para o vestibular |
-
-<img alt = "Storyboard_2" src="../Imagens_storyboard/storyboard2.jpg"/>
-
-Autor: Eduarda Servidio
-
-## Requisitos
-
-| ID  | Descrição                                                                                                                       |
-| --- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | O usuário deve ter CPF para logar no aplicativo                                                                                 |
-| 2   | O sistema deve disponibilizar os documentos oficiais do usuário                                                                 |
-| 3   | O usuário deve poder ter acesso aos seus documentos, pelo menos o CPF                                                           |
-| 4   | O sistema deve atualizar os documentos oficiais do usuário sempre que ocorrer alterações ou disponibilidade de novos documentos |
-| 5   | O sistema deve realizar a validação facial dos usuários para uma maior segurança dos dados                                      |
-| 6   | O usuário deve ter acesso ao modo de como é feita a proteção dos seus documentos                                                |
-| 7   | O sistema deve apresentar uma tela principal com as funcionalidades disponíveis para o usuário                                  |
+<p align="justify">Sophia, 8 anos, é estudante do Ensino Fundamental 1 e precisa praticar sua leitura e escrita. Com ajuda da sua mãe, Sophia tem procurado por aplicativos que lhe ajude nos estudos. Nessa procura, elas encontraram o aplicativo Meu Gov.br que, infelizmente, não irá te ajudar a alcançar seu objetivo.</p>
 
 ## Referências Bibliográficas
 
-<p align="justify">ROCKET CHAT, 2019.1. Rocket.chat. Disponível em <a href="https://marcosnbj.github.io/2019.1-RocketChat/Elicita%C3%A7%C3%A3o/Storyboard/">https://marcosnbj.github.io/2019.1-RocketChat/Elicita%C3%A7%C3%A3o/Storyboard/</a>. Acesso em 06 de mar. de 2021.</p>
-
-<p align="justify">STORYBOARDTHAT. Digital Storytelling. Disponível em <a href="https://www.storyboardthat.com/pt">https://www.storyboardthat.com/pt</a> Acesso em 06 de mar. de 2021.</p>
-
-<p align="justify">ANDRADE, F. O que é um storyboard?. Disponível em <a href="https://www.racecomunicacao.com.br/blog/o-que-e-um-storyboard/">https://www.racecomunicacao.com.br/blog/o-que-e-um-storyboard/.</a> Acesso em 08 de mar. de 2021.</p>
+<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
+<p align="justify">Imagens das personas retiradas do site: thispersondoesnotexist.com </p>
