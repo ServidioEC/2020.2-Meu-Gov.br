@@ -5,7 +5,7 @@
 | Data       | Versão | Descrição                        | Autores                   | Revisor |
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
 | 16/02/2021 | 0.1    | Criação da Wiki Planejamento     | Eduarda S. e Luis Gustavo | ------- |
-| 25/02/2021 | 0.2    | Atualização da Wiki Planejamento | Todos os membros          | Eduarda |
+| 25/02/2021 | 0.2    | Atualização da Wiki Planejamento | Todos os membros          | Eduarda Servidio |
 | 25/02/2021 | 0.3    | Correção de Erros de Digitação   | Eduarda Servidio          | ------- |
 
 ## Justificativa de escolha do aplicativo
