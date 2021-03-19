@@ -129,9 +129,6 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 | 16  | O sistema deve se adaptar ao formato de cada dispositivo |
 | 17  | O aplicativo precisa se submeter à Lei Geral de Proteção de Dados (LGPD) |
 
-## Referências bibliográficas
-¹ PEDRO, Gabrielle. "Caixa Tem: é difícil criar um app para receber auxílio sem tanto problema?". Tilt, 2020. Disponível em: <https://www.uol.com.br/tilt/noticias/redacao/2020/07/29/caixa-tem-por-que-app-do-auxilio-emergencial-passou-por-tantos-problemas.htm>. Acesso em: 18 de março de 2021.
-
 ## Bibliografia
 <p align="justify"> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 13. 40 slides. p 28, 29. Disponível em: https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 18 de março de 2021. </p>
 <p align="justify"> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 ed. Porto Alegre: AMGH, 2016. p 210, 211. </p>
