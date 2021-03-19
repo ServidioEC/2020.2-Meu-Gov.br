@@ -5,7 +5,7 @@
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
 | 18/03/2021 | 0.1    | Criação do documento             | Giovana Dionisio          | ------- |
 
-# Introdução
+## Introdução
 <p align="justify"> A Especificação Suplementar é um artefato documentado em linguagem natural que auxilia o engenheiro de software na listagem e descrição dos requisitos não funcionais de um projeto. Através deste documento, junto às outras técnicas de elicitação e modelagem, é possível obter o conjunto completo dos requisitos do sistema. </p>
 <p align="justify"> Muitas vezes, os requisitos não funcionais não são identificados de maneira simples quando são aplicadas técnicas de elicitação voltadas para o usuário e a sua utilização do sistema. Estes requisitos podem estar relacionados: </p>
 
@@ -15,7 +15,7 @@
 
 <p align="justify"> Por isso, a Especificação Suplementar é orientada pelo método FURPS+ para a simplificação da elicitação destes atributos. </p>
 
-## FURPS+
+### FURPS+
 <p align="justify"> FURPS+ é um método para a classificação dos requisitos relacionados à qualidade do Software. Seu nome consiste em uma silga para <i><b>F</b>uncionality</i>, <i><b>U</b>sability</i>, <i><b>R</b>eliability</i>, <i><b>P</b>erformance</i> e <i><b>S</b>uportability</i>. </p>
 
 * <p align="justify"> Funcionalidade (<i>funcionality</i>): se refere ao conjunto de características e capacidades, funções e segurança de um software; </p>
@@ -26,16 +26,16 @@
 
 <p align="justify"> O '+' de FURPS+ está relacionado a outros aspectos que podem ser aplicados quando se trata da qualidade de software, mas que não estão descritos na silga. </p>
 
-# Metodologia 
+## Metodologia 
 <p align="justify"> A equipe utilizou o método FURPS+ para o levantamento dos requisitos não funcionais relacionados à qualidade do aplicativo Meu gov.br, analisando a aplicação com base nos aspectos descritos no método. Além disso, foram levantados requisitos não funcionais relacionados a questões legais através do estudo da <a href = "https://appgovbr.estaleiro.serpro.gov.br/api/legal">documentação</a> disponibilizada pelos desenvolvedores do aplicativo na sua <a href="https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US">página da PlayStore</a>.</p>
 
-# Levantamentos
+## Levantamentos
 Aqui são apresentados os requisitos que foram levantados além de uma breve descrição sobre cada um. 
-## Requisitos de qualidade
-### Funcionalidade
+### Requisitos de qualidade
+#### Funcionalidade
 <p align="justify"> Os requisitos relacionados às funcionalidade do Meu gov.br foram levantados e descritos anteriormente, com as técnicas de <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/introspeccao/">Introspecção</a>, <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/questionario/">Questionário</a> e <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/introspeccao/">Storyboard</a>. </p>
 
-### Usabilidade
+#### Usabilidade
 * <p align="justify"> A interface do aplicativo deve apresentar cores que facilitem o seu uso; </p>
 
     * <p align="justify"> Para uma melhor usabilidade, o sistema precisa apresentar cores que não confundam o usuário. </p>
@@ -60,7 +60,7 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 
     * <p align="justify"> Deve ser elaborado um tutorial de uso para o aplicativo que seja simples e de fácil entendimento para o público em geral. </p>
 
-### Confiabilidade
+#### Confiabilidade
 * <p align="justify"> As informações apresentadas pelo aplicativo devem ser condizentes com o que consta nos bancos de dado do governo; </p>
 
     * <p align="justify"> É necessário que haja consistência nas informações e documentos que constam no aplicativo. </p>
@@ -81,7 +81,7 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 
     * <p align="justify"> O aplicativo não pode estar sujeito a falhas que possam, de alguma maneira, afetar os dados sensíves do usuário, como senha ou foto. </p>
 
-### Desempenho
+#### Desempenho
 * <p align="justify"> O sistema deve suportar grandes volumes de usuários na aplicação sem que haja instabilidade; </p>
 
     * <p align="justify"> Em alguns momentos específicos, pode haver um grande número de acessos simultâneos e o aplicativo precisa ser preparado para este cenário. </p>
@@ -94,7 +94,7 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 
     * <p align="justify"> O usuário pode perder a atenção ou a paciência ao ter que lidar com longos períodos de espera, por isso o tempo de reposta do sistema deve ser rápido; </p>
 
-### Facilidade de suporte:
+#### Facilidade de suporte:
 * <p align="justify"> O aplicativo deve funcionar nos sistemas Android e iOS; </p>
     * <p align="justify"> O aplicativo deve ser disponibilizado tanto para dispositivos que utilizam o sistema Android quanto para os que utilizam o sistema iOS. </p>
 
@@ -102,12 +102,12 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 
     * <p align="justify"> A interface do aplicativo deve ser otimizada para o dispositivo em que ele está sendo utilizado. </p>
 
-## Requisitos legais
+### Requisitos legais
 * <p align="justify"> O aplicativo precisa se submeter à Lei Geral de Proteção de Dados (LGPD); </p>
 
     * <p align="justify"> Essa é a Lei 13.709, de 14 de agosto de 2018, que trata sobre o tratamento de dados pessoais no Brasil e o aplicativo precisa ser fiel a ela. </p>
 
-## Tabela de requisitos levantados
+### Tabela de requisitos levantados
 
 | ID  | Descrição |
 | --- | --------- |
