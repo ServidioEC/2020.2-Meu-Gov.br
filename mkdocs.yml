@@ -26,6 +26,7 @@ nav:
     - Planejamento: 'Planejamento/Planejamento.md'
     - Pré-rastreabilidade: 'Pre-Rastreabilidade/Rich_Picture.md'
     - Elicitação:
+          - Personas: 'Elicitacao/Personas.md'
           - Introspecção: 'Elicitacao/introspeccao.md'
           - Questionário: 'Elicitacao/questionario.md'
           - Storyboard: 'Elicitacao/storyboard.md'
