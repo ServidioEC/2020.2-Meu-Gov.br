@@ -4,7 +4,7 @@
 | Data       | Versão | Descrição                        | Autores                   | Revisor |
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
 | 18/03/2021 | 0.1    | Criação do documento             | Giovana Dionisio          | ------- |
-| 19/03/2021 | 0.2    | Pequenas correções no texto         | ------- |
+| 19/03/2021 | 0.2    | Pequenas correções no texto         | Giovana Dionisio | ------- |
 
 ## Introdução
 <p align="justify"> A Especificação Suplementar é um artefato documentado em linguagem natural que auxilia o engenheiro de software na listagem e descrição dos requisitos não funcionais de um projeto. Através deste documento, junto às outras técnicas de elicitação e modelagem, é possível obter o conjunto completo dos requisitos do sistema. </p>
