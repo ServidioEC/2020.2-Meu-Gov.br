@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição                        | Autores                   | Revisor |
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
 | 18/03/2021 | 0.1    | Criação do documento             | Giovana Dionisio          | ------- |
+| 19/03/2021 | 0.2    | Pequenas correções no texto         | ------- |
 
 ## Introdução
 <p align="justify"> A Especificação Suplementar é um artefato documentado em linguagem natural que auxilia o engenheiro de software na listagem e descrição dos requisitos não funcionais de um projeto. Através deste documento, junto às outras técnicas de elicitação e modelagem, é possível obter o conjunto completo dos requisitos do sistema. </p>
@@ -13,7 +14,7 @@
 * À qualidade do sistema;
 * À compatibilidade e às restrições de design do sistema.
 
-<p align="justify"> Por isso, a Especificação Suplementar é orientada pelo método FURPS+ para a simplificação da elicitação destes atributos. </p>
+<p align="justify"> Por isso, a Especificação Suplementar é orientada pelo método FURPS+, para a simplificação da elicitação destes atributos. </p>
 
 ### FURPS+
 <p align="justify"> FURPS+ é um método para a classificação dos requisitos relacionados à qualidade do Software. Seu nome consiste em uma silga para <i><b>F</b>uncionality</i>, <i><b>U</b>sability</i>, <i><b>R</b>eliability</i>, <i><b>P</b>erformance</i> e <i><b>S</b>uportability</i>. </p>
@@ -30,7 +31,7 @@
 <p align="justify"> A equipe utilizou o método FURPS+ para o levantamento dos requisitos não funcionais relacionados à qualidade do aplicativo Meu gov.br, analisando a aplicação com base nos aspectos descritos no método. Além disso, foram levantados requisitos não funcionais relacionados a questões legais através do estudo da <a href = "https://appgovbr.estaleiro.serpro.gov.br/api/legal">documentação</a> disponibilizada pelos desenvolvedores do aplicativo na sua <a href="https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US">página da PlayStore</a>.</p>
 
 ## Levantamentos
-Aqui são apresentados os requisitos que foram levantados além de uma breve descrição sobre cada um. 
+Aqui são apresentados os requisitos que foram levantados, além de uma breve descrição sobre cada um. 
 ### Requisitos de qualidade
 #### Funcionalidade
 <p align="justify"> Os requisitos relacionados às funcionalidade do Meu gov.br foram levantados e descritos anteriormente, com as técnicas de <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/introspeccao/">Introspecção</a>, <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/questionario/">Questionário</a> e <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/introspeccao/">Storyboard</a>. </p>
@@ -86,7 +87,7 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 
     * <p align="justify"> Em alguns momentos específicos, pode haver um grande número de acessos simultâneos e o aplicativo precisa ser preparado para este cenário. </p>
 
-* <p align="justify"> A aplicação não deve consumir muitos recusos (memória, processamento, bateria) do dispositivo; </p>
+* <p align="justify"> A aplicação não deve consumir muitos recursos (memória, processamento, bateria) do dispositivo; </p>
 
     * <p align="justify"> A aplicação deverá funcionar bem desde os dispositivos mais robustos até os mais simples. </p>
 
@@ -95,7 +96,9 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
     * <p align="justify"> O usuário pode perder a atenção ou a paciência ao ter que lidar com longos períodos de espera, por isso o tempo de reposta do sistema deve ser rápido; </p>
 
 #### Facilidade de suporte:
+
 * <p align="justify"> O aplicativo deve funcionar nos sistemas Android e iOS; </p>
+
     * <p align="justify"> O aplicativo deve ser disponibilizado tanto para dispositivos que utilizam o sistema Android quanto para os que utilizam o sistema iOS. </p>
 
 * <p align="justify"> O sistema deve se adaptar ao formato de cada dispositivo; </p>
@@ -123,13 +126,14 @@ Aqui são apresentados os requisitos que foram levantados além de uma breve des
 | 10  | O aplicativo deve oferecer suporte para o usuário se recuperar de seus erros |
 | 11  | O aplicativo deve armazenar com segurança os dados dos usuários |
 | 12  | O sistema deve suportar grandes volumes de usuários na aplicação sem que haja instabilidade |
-| 13  | A aplicação não deve consumir muitos recusos (memória, processamento, bateria) do dispositivo |
+| 13  | A aplicação não deve consumir muitos recursos (memória, processamento, bateria) do dispositivo |
 | 14  | O tempo de resposta ao estímulo ou solicitação do usuário deve ser o mais próximo possível de instantâneo |
 | 15  | O aplicativo deve funcionar nos sistemas Android e iOS |
 | 16  | O sistema deve se adaptar ao formato de cada dispositivo |
 | 17  | O aplicativo precisa se submeter à Lei Geral de Proteção de Dados (LGPD) |
 
 ## Bibliografia
-<p align="justify"> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 13. 40 slides. p 28, 29. Disponível em: https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 18 de março de 2021. </p>
+<p align="justify"> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 13. 40 slides. p 28, 29. Disponível em: <a href = "https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pd">https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>. Acesso em: 18 de março de 2021. </p>
 <p align="justify"> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 ed. Porto Alegre: AMGH, 2016. p 210, 211. </p>
 <p align="justify"> GOIS, Samily, SOBRINHO, Francisco. Projeto de Software Floricultura Beija-Flor, Especificação Suplementar. Versão 101.6. PHP SOFTWARE COMPANY, 2012. </p>
+<p align="justify"> Política de Privacidade - Aplicativo Meu gov.br. Disponível em: <a href = "https://appgovbr.estaleiro.serpro.gov.br/api/legal">https://appgovbr.estaleiro.serpro.gov.br/api/legal</a>.</p>
