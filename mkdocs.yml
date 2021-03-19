@@ -17,8 +17,8 @@ hide:
 nav:
     - Home: index.md
     - Apresentações:
-          - Apresentação 01: 'Apresentacao/apresentacao1.md'
-          - Apresentacao 02: 'Apresentacao/apresentacao2.md'
+          - Apresentação 01: 'Apresentacao/Apresentacao_PC1/apresentacao1.md'
+          - Apresentacao 02: ''
           - Apresentacao 03: ''
           - Apresentacao 04: ''
           - Apresentacao 05: ''
@@ -26,15 +26,20 @@ nav:
     - Planejamento: 'Planejamento/Planejamento.md'
     - Pré-rastreabilidade: 'Pre-Rastreabilidade/Rich_Picture.md'
     - Elicitação:
-          - Personas: 'Elicitacao/Personas.md' 
           - Introspecção: 'Elicitacao/introspeccao.md'
           - Questionário: 'Elicitacao/questionario.md'
           - Storyboard: 'Elicitacao/storyboard.md'
           - Priorização:
                 - First Things First: 'Elicitacao/Priorizacao/ftf.md'
                 - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
-    - Modelagem de Requisitos (Geral):
-        - Especificação Suplementar: 'Modelagem(geral)/EspecificacaoSuplementar.md'
-    - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
+    - Modelagem de Requisitos:
+          - Casos de Uso:
+                - UC1: 'Modelagem_Requisitos/Casos_Uso/UC1.md'
+                - UC2: 'Modelagem_Requisitos/Casos_Uso/UC2.md'
+                - UC3: 'Modelagem_Requisitos/Casos_Uso/UC3.md'
+                - UC4: 'Modelagem_Requisitos/Casos_Uso/UC4.md'
+                - UC5: 'Modelagem_Requisitos/Casos_Uso/UC5.md'
+                - UC6: 'Modelagem_Requisitos/Casos_Uso/UC6.md'
+                - UC7: 'Modelagem_Requisitos/Casos_Uso/UC7.md'
     - Análise de Requisitos: 'Analise_Requisitos/'
 docs_dir: docs/
