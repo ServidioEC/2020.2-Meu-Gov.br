@@ -33,6 +33,7 @@ nav:
                 - First Things First: 'Elicitacao/Priorizacao/ftf.md'
                 - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
     - Modelagem de Requisitos:
+          - Especificação Suplementar: 'Modelagem_Requisitos/EspecificacaoSuplementar.md'
           - Casos de Uso:
                 - UC1: 'Modelagem_Requisitos/Casos_Uso/UC1.md'
                 - UC2: 'Modelagem_Requisitos/Casos_Uso/UC2.md'
