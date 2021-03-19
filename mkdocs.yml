@@ -33,7 +33,8 @@ nav:
           - Priorização:
                 - First Things First: 'Elicitacao/Priorizacao/ftf.md'
                 - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
-    - Modelagem de Requisitos (Geral): 'Modelagem_Requisitos(Geral)/'
+    - Modelagem de Requisitos (Geral):
+        - Especificação Suplementar: 'Modelagem(geral)/EspecificaçãoSuplementar.md'
     - Modelagem de Requisitos (Ágil): 'Modelagem_Requisitos(Agil)/'
     - Análise de Requisitos: 'Analise_Requisitos/'
 docs_dir: docs/
