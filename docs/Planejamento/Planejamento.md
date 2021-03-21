@@ -52,6 +52,7 @@ Estipulamos uma dedicaçao semanal de 8 horas por membro da equipe.
 | <img alt = "Logo Corel Draw" src="https://i.pinimg.com/originals/3a/42/d6/3a42d6d1373063528fd7854ba89e9847.png" width = "100">                                                                                                | CorelDraw          | Ferramenta usada para elaborar o Rich Picture            |
 | <img alt = "Logo Photohop" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width = "100">                                                                                                                      | Photoshop          | Ferramenta usada para criação dos slides finais          |
 | <img alt = "Logo MKdocs" src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width = "200">                                                                                                                            | MKdocs             | Ferramenta usada para criação do Site wiki do projeto.   |
+| <img alt = "Logo MKdocs" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/images/LucidLogo_Website.svg" width = "200">                                                                                                                            | Lucidchart             | Ferramenta usada para criação dos diagramas de casos de uso.   |
 
 ## Contribuições para a Primeira Apresentação
 
