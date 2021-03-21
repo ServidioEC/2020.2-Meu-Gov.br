@@ -37,5 +37,6 @@ nav:
           - Especificação Suplementar: 'Modelagem_Requisitos/EspecificacaoSuplementar.md'
           - Casos de Uso: 'Modelagem_Requisitos/Casos_uso.md'
           - Cenários: 'Modelagem_Requisitos/Cenarios.md'
+          - Léxicos: 'Modelagem_Requisitos/Léxicos.md'
     - Análise de Requisitos: 'Analise_Requisitos/'
 docs_dir: docs/
