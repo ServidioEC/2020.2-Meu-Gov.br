@@ -8,10 +8,14 @@
 | 19/03/2021 | 0.4    | Adição das legendas das imagens                                       | Gabriela Pivetta | Luis Marques     |
 | 19/03/2021 | 0.5    | Adição de tabelas de casos de uso                                     | Luis Marques     | ---              |
 | 21/03/2021 | 0.6    | Adição de tabela login, correções ortografica e adição de Referencias | Luis Marques     | ---              |
+| 21/03/2021 | 0.7    | Adição Introdução                                                     | Luis Marques     | ---              |
 
 ## Introdução
 
-<p align="justify">Os Casos de uso são </p>
+<p align="justify">Os Casos de uso são Usados para descrever um conjunto de ações que um
+sistema ou um conjunto de sistemas deve desempenhar em
+colaboração com um ou mais usuários externos ao sistema  </p>
+<p aling="justify">Os casos de uso são esses conjuntos de ações, os usuários são os atores é o conjunto de sistemas são os sujeitos.</p>
 
 ## Casos de Uso
 
