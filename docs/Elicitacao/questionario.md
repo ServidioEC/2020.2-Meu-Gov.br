@@ -28,7 +28,7 @@
  
 #### Texto inicial
  
-<p align="justify">Bem, iniciamos com um breve texto explicando o porque estamos realizando o questionário, informando que as informações neles preenchidas irão permanecer de forma anônima e o seu tempo de preenchimento médio.</p>
+<p align="justify">Bem, iniciamos com um breve texto explicando o porque estamos realizando o questionário, informando que as informações nele preenchidas irão permanecer de forma anônima e informando o seu tempo de preenchimento médio.</p>
  
 <img alt="genero" src="../Images_questionario/inicio.png"/>
 Imagem 1. Texto inicial apresentado aos usuários.
