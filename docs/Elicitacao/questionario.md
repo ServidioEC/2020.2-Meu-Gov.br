@@ -143,7 +143,7 @@ Imagem 13. Frequência de utilização de documentos digitais.
 
 Imagem 14. Falta de algum documento na versão digital.
  
-##### Qual?
+#### Qual?
  
 <p align="justify">Pode-se perceber que apesar de alguns documentos já possuírem versão digital como, por exemplo: CNH, Título Eleitoral, Carteira de Trabalho e Certificados Militares, diversas pessoas sentem falta dessa disponibilidade em formato digital (seja por uma propaganda maior sobre sua existência ou uma maior disponibilidade por parte dos órgãos competentes). O documento que teve maior quantidade de marcações sobre sua ausência no meio digital foi a Identidade, seguidos por Certidão de Nascimento e Certificado de Conclusão de Curso (Diplomas Universitários ou Conclusão do Ensino Médio). Estes documentos não estão disponíveis em meios digitais e contaram como requisitos não atendidos pelo Aplicativo.</p>
  
