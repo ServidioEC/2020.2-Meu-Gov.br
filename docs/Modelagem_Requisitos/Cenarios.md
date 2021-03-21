@@ -4,6 +4,7 @@
 | ---------- | ------ | ---------------------------------------- | ---------------- | ---------------- |
 | 20/03/2021 | 0.1    | Criação da Página                        |   Pedro Haick    | ---------------- |
 | 20/03/2021 | 0.2    | Adição dos cenários 1 a 3                |   Pedro Haick    | ---------------- |
+| 20/03/2021 | 0.3    | Adição dos cenários 4 a 7                |   Pedro Haick    | ---------------- |
 
 ## Introdução
 
@@ -41,6 +42,50 @@
 | Recursos | Conexão à internet, aplicativo instalado |
 | Episódios | Usuário deseja visualizar seus documentos <br> Usuário seleciona a opção "Documentos" <br> Usuário seleciona o documento a ser visualizado
 | Exceções | Aplicativo indisponível <br> Conexão instável com a internet <br> Nenhum documento disponível |
+
+## Cenário 4
+
+|  Título  | Visualizar proteção dos dados |
+| -------- | ------------------- |
+| Objetivo | Permitir ao usuário visualizar quais autorizações foram concedidas aos seus dados |
+| Contexto | *Local*: Dashboard inicial no aplicativo <br> *Pré-condição*: Usuário logado <br> *Estado final*: Autorizações exibidas |
+| Atores | Usuário |
+| Recursos | Conexão à internet, aplicativo instalado |
+| Episódios | Usuário deseja visualizar a situação da proteção de seus dados <br> Usuário seleciona a opção "Proteção de Dados" <br> Autorizações concedidas aos dados do usuário são exibidas
+| Exceções | Aplicativo indisponível <br> Conexão instável com a internet <br> Nenhuma autorização concedida |
+
+## Cenário 5
+
+|  Título  | Rever instruções |
+| -------- | ------------------- |
+| Objetivo | Permitir ao usuário que reveja as instruções do aplicativo |
+| Contexto | *Local*: Dashboard inicial no aplicativo <br> *Pré-condição*: Usuário logado <br> *Estado final*: Instruções exibidas |
+| Atores | Usuário |
+| Recursos | Conexão à internet, aplicativo instalado |
+| Episódios | Usuário deseja rever as instruções <br> Usuário seleciona a última aba do aplicativo <br> Usuário seleciona a opção "Rever instruções Meu gov<span>.</span>br" |
+| Exceções | Aplicativo indisponível <br> Conexão instável com a internet |
+
+## Cenário 6
+
+|  Título  | Ver a política de privacidade |
+| -------- | ------------------- |
+| Objetivo | Permitir ao usuário que leia a política de privacidade do aplicativo |
+| Contexto | *Local*: Dashboard inicial no aplicativo <br> *Pré-condição*: Usuário logado <br> *Estado final*: Política de privacidade exibida |
+| Atores | Usuário |
+| Recursos | Conexão à internet, aplicativo instalado |
+| Episódios | Usuário deseja ler a política de privacidade <br> Usuário seleciona a última aba do aplicativo <br> Usuário seleciona a opção "Política de Privacidade" |
+| Exceções | Aplicativo indisponível <br> Conexão instável com a internet |
+
+## Cenário 7
+
+|  Título  | Logout do usuário |
+| -------- | ------------------- |
+| Objetivo | Permitir ao usuário fazer logout do aplicativo |
+| Contexto | *Local*: Dashboard inicial no aplicativo <br> *Pré-condição*: Usuário logado <br> *Estado final*: Usuário deslogado |
+| Atores | Usuário |
+| Recursos | Conexão à internet, aplicativo instalado |
+| Episódios | Usuário deseja realizar logout do aplicativo <br> Usuário seleciona a última aba do aplicativo <br> Usuário seleciona a opção "Sair do meu gov<span>.</span>br"
+| Exceções | Aplicativo indisponível <br> Conexão instável com a internet |
 
 ## Referências
 SOMMERVILLE, Ian. Engenharia de Software, Pearson Prentice Hall.
