@@ -6,6 +6,7 @@
 | 21/03/2021 | 0.1    | Criação do documento             | Eduarda Servidio          | ------- |
 | 21/03/2021 | 0.2    | Adição da Definição e Metodologia| Eduarda Servidio          | ------- |
 | 21/03/2021 | 0.3    | Adição dos Léxicos               | Eduarda Servidio          | ------- |
+| 21/03/2021 | 0.4    | Pequenas Correções               | Eduarda Servidio          | ------- |
 
 ## Definição
 <p align="justify">"Léxicos consistem em símbolos compostos por palavras ou frases que representem termos particulares de um determinado domínio, podendo ser de quatro tipos: objeto, sujeito, verbo e estado. Têm como objetivo expressar a linguagem do universo de um problema sem levar em consideração o problema, e sim o seu contexto."</p>
@@ -39,41 +40,46 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 | Verbo               | Cadastrar CPF e senha em algum banco de dados | Usuário deve poder se cadastrar pelos meios disponibilizados pelo aplicativo (Validação Facial, Bancos Credenciais, Internet Banking, Número do CPF, Certificado digital e Certificado digital em nuvem) | Inscrever, registrar    |
 
 ### Léxico 05 - Documentos
+| Classificação       | Noção                                                                          | Impacto                                                                                                                                                                                                  | Sinônimos               | 
+| ------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------- |
+| Objeto              | Página Web com uma lista de dúvidas frequentes em relação ao uso do aplicativo | O usuário deve poder ter acesso a lista de dúvidas frequentes sempre que desejar | Principais Questionamentos |
+
+### Léxico 06 - Dúvidas Fequentes
 | Classificação       | Noção                                    | Impacto                                                                                                                                                                                                  | Sinônimos               | 
 | ------------------- | ---------------------------------------- | --------------------------------------------------------------- | ------------------------ |
 | Objeto              | Lista dos documentos digitais do usuário | O usuário pode acessar seus documentos oficiais pelo aplicativo | declarações digitais     |
 
-### Léxico 06 - Ler QRCode
+### Léxico 07 - Ler QRCode
 | Classificação       | Noção                                              | Impacto                                                                                                                      | Sinônimos        | 
 | ------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------  |
 | Verbo               | Leitura do QRCode exibido no computador do usuário | Usuário deve poder fazer a leitura do QRCOde para relizar a crição ou recuperação de senha da sua conta com validação facial | reconhecer QRCode|
 
-### Léxico 07 - Login
+### Léxico 08 - Login
 | Classificação       | Noção                                       | Impacto                                                         | Sinônimos       | 
 | ------------------- | ------------------------------------------- | --------------------------------------------------------------- | --------------- |
 | Objeto              | Acesso ao aplicativo e suas funcionalidades | O usuário deve poder realizar o login inserindo seu CPF e senha | Acessar, entrar |
 
-### Léxico 08 - Login
+### Léxico 09 - Logout
 | Classificação       | Noção                                       | Impacto                                                              | Sinônimos       | 
 | ------------------- | ------------------------------------------- | -------------------------------------------------------------------- | --------------- |
 | Objeto              | Sair do aplicativo                          | O usuário deve poder realizar o logout no aplicativo quando desejar  | Encerrar, sair  |
 
-### Léxico 09 - Política de Privacidade
+### Léxico 10 - Política de Privacidade
 | Classificação       | Noção                                            | Impacto                                                          | Sinônimos  | 
 | ------------------- | ------------------------------------------------ | ---------------------------------------------------------------- | ---------- |
-| Objeto              | Tela com a política de Privacidade do Aplicativo | Disponível para o usuário realizar a leitura sempre que quiser   | ---------- |
+| Objeto              | Tela com a política de Privacidade do Aplicativo | O usuário deve ter acesso a política de privacidade para realizar a leitura sempre que desejar   | ---------- |
 
-### Léxico 10 - Proteção dos Dados
+### Léxico 11 - Proteção dos Dados
 | Classificação       | Noção                                                               | Impacto                                                                           | Sinônimos            | 
 | ------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------- |
 | Estado              | Proteção dos documentos por meio da validação dos dados biométricos | O Usuário deve poder ver que seus dados estão protegidos por validação biométrica | Defesa dos dados     |
 
-### Léxico 11 - Recuperar Senha
+### Léxico 12 - Recuperar Senha
 | Classificação       | Noção                             | Impacto                                                       | Sinônimos                 | 
 | ------------------- | --------------------------------- | ------------------------------------------------------------- | ------------------------- |
 | Verbo               | Opção disponível na tela de login | O usuário deve poder utilizar a opção quando esquecer a senha | alterar/resgatar senha    |
 
-### Léxico 12 - Rever Instruções Meu gov.br
+### Léxico 13 - Rever Instruções Meu gov.br
 | Classificação       | Noção                                       | Impacto                                                                   | Sinônimos          | 
 | ------------------- | ------------------------------------------- | ------------------------------------------------------------------------- | -----------------  |
 | Verbo               | Leitura das instruções de uso do aplicativo | O usuário pode rever as instruções de uso do aplicativo sempre que desejar| reler, reconsiderar|
