@@ -10,16 +10,18 @@
 
 ## Slides da apresentação
 
-<src="https://docs.google.com/presentation/d/1vwB-kZRqfS5tWEU7Xh1Jlr-Qyjm4G8J_XferMXrLapM/edit?usp=sharing">
-    
 Slides criados na ferramenta Photoshop e transferidos para Apresentações Online do Google
+
+<iframe width="820" height="500" src="https://docs.google.com/presentation/d/1vwB-kZRqfS5tWEU7Xh1Jlr-Qyjm4G8J_XferMXrLapM/edit#slide=id.gc9c30c93e1_0_47" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
 
 ## Contribuições para a Terceira Apresentação
 
 | Realização                                      | Membro que contribuiu           |
 | ----------------------------------------------- | ------------------------------- |
 | Conteúdo dos Slides: Casos de Uso               | Luis Gustav                     |
-| Conteúdo dos Slides: Diagramas                  | Gabriela Pivetta                |
+| Conteúdo dos Slides: Diagramas de Caso de Uso   | Gabriela Pivetta                |
 | Conteúdo dos Slides: Cenários                   | Pedro Haick                     |
 | Conteúdo dos Slides: Especificação Suplementar  | Giovana Dionisio                |
 | Conteúdo dos Slides: Léxicos                    | Eduarda Servidio                |
