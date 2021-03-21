@@ -40,14 +40,14 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 | Verbo               | Cadastrar CPF e senha em algum banco de dados | Usuário deve poder se cadastrar pelos meios disponibilizados pelo aplicativo (Validação Facial, Bancos Credenciais, Internet Banking, Número do CPF, Certificado digital e Certificado digital em nuvem) | Inscrever, registrar    |
 
 ### Léxico 05 - Documentos
-| Classificação       | Noção                                                                          | Impacto                                                                                                                                                                                                  | Sinônimos               | 
-| ------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------- |
-| Objeto              | Página Web com uma lista de dúvidas frequentes em relação ao uso do aplicativo | O usuário deve poder ter acesso a lista de dúvidas frequentes sempre que desejar | Principais Questionamentos |
+| Classificação       | Noção                                    | Impacto                                                         | Sinônimos               | 
+| ------------------- | ---------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Objeto              | Lista dos documentos digitais do usuário | O usuário pode acessar seus documentos oficiais pelo aplicativo | Declarações digitais     |
 
 ### Léxico 06 - Dúvidas Fequentes
-| Classificação       | Noção                                    | Impacto                                                                                                                                                                                                  | Sinônimos               | 
-| ------------------- | ---------------------------------------- | --------------------------------------------------------------- | ------------------------ |
-| Objeto              | Lista dos documentos digitais do usuário | O usuário pode acessar seus documentos oficiais pelo aplicativo | declarações digitais     |
+| Classificação       | Noção                                                                          | Impacto                                                                          | Sinônimos                  | 
+| ------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------- |
+| Objeto              | Página Web com uma lista de dúvidas frequentes em relação ao uso do aplicativo | O usuário deve poder ter acesso a lista de dúvidas frequentes sempre que desejar | Principais Questionamentos |
 
 ### Léxico 07 - Ler QRCode
 | Classificação       | Noção                                              | Impacto                                                                                                                      | Sinônimos        | 
@@ -77,12 +77,12 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 ### Léxico 12 - Recuperar Senha
 | Classificação       | Noção                             | Impacto                                                       | Sinônimos                 | 
 | ------------------- | --------------------------------- | ------------------------------------------------------------- | ------------------------- |
-| Verbo               | Opção disponível na tela de login | O usuário deve poder utilizar a opção quando esquecer a senha | alterar/resgatar senha    |
+| Verbo               | Opção disponível na tela de login | O usuário deve poder utilizar a opção quando esquecer a senha | Alterar/resgatar senha    |
 
 ### Léxico 13 - Rever Instruções Meu gov.br
 | Classificação       | Noção                                       | Impacto                                                                   | Sinônimos          | 
 | ------------------- | ------------------------------------------- | ------------------------------------------------------------------------- | -----------------  |
-| Verbo               | Leitura das instruções de uso do aplicativo | O usuário pode rever as instruções de uso do aplicativo sempre que desejar| reler, reconsiderar|
+| Verbo               | Leitura das instruções de uso do aplicativo | O usuário pode rever as instruções de uso do aplicativo sempre que desejar| Reler, reconsiderar|
 
 
 ## Referências Bibliográficas
