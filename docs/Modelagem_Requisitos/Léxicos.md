@@ -6,7 +6,7 @@
 | 21/03/2021 | 0.1    | Criação do documento             | Eduarda Servidio          | ------- |
 | 21/03/2021 | 0.2    | Adição da Definição e Metodologia| Eduarda Servidio          | ------- |
 | 21/03/2021 | 0.3    | Adição dos Léxicos               | Eduarda Servidio          | ------- |
-| 21/03/2021 | 0.4    | Pequenas Correções               | Eduarda Servidio          | ------- |
+| 21/03/2021 | 0.4    | Pequenas Correções               | Eduarda Servidio          | Giovana Dionisio |
 
 ## Definição
 <p align="justify">"Léxicos consistem em símbolos compostos por palavras ou frases que representem termos particulares de um determinado domínio, podendo ser de quatro tipos: objeto, sujeito, verbo e estado. Têm como objetivo expressar a linguagem do universo de um problema sem levar em consideração o problema, e sim o seu contexto."</p>
@@ -52,7 +52,7 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 ### Léxico 07 - Ler QRCode
 | Classificação       | Noção                                              | Impacto                                                                                                                      | Sinônimos        | 
 | ------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------  |
-| Verbo               | Leitura do QRCode exibido no computador do usuário | Usuário deve poder fazer a leitura do QRCOde para relizar a crição ou recuperação de senha da sua conta com validação facial | reconhecer QRCode|
+| Verbo               | Leitura do QRCode exibido no computador do usuário | Usuário deve poder fazer a leitura do QRCode para relizar a crição ou recuperação de senha da sua conta com validação facial | Reconhecer QRCode|
 
 ### Léxico 08 - Login
 | Classificação       | Noção                                       | Impacto                                                         | Sinônimos       | 
