@@ -14,6 +14,9 @@
     allowfullscreen></iframe>
 
 ## Slides da apresentação
+
+Slides criados na ferramenta Photoshop e transferidos para Apresentações Online do Google
+
 <iframe width="820" height="500" src="https://docs.google.com/presentation/d/1HN9OTRcUbjJb10XRl-owZ1YBvOtBMMti3ol_h7CdSIk/edit?usp=sharing
 " frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
