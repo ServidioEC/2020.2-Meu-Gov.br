@@ -100,12 +100,12 @@
 
 ## NFR de Portabilidade
 ### Sem propagação
-<img alt= "NFRport" src="https://i.ibb.co/KhXCVm6/NFRPort.png" width = "400"/>
+<img alt= "NFRport" src="https://i.ibb.co/fGp35gN/NFRPort.png" width = "500"/>
 
 <i>Figura 13: NFR de portabilidade, sem propagação. Autor: Giovana Dionisio.</i>
 
 ### Com propagação
-<img alt= "NFRportProp" src="https://i.ibb.co/GFzsc5w/NFRPort-Prop.png" width = "400"/>
+<img alt= "NFRportProp" src="https://i.ibb.co/2s3pf5D/NFRPort-Prop.png" width = "500"/>
 
 <i>Figura 14: NFR de portabilidade, com propagação. Autor: Giovana Dionisio.</i>
 
