@@ -35,7 +35,7 @@
 <i>Figura 1: Legenda para a classificação de softgoals. Autor: Giovana Dionisio.</i>  
  
 * <p align="justify"> Quanto à contribuição: </p>
-<img alt= "contribuicao" src="https://i.ibb.co/mJ0NW0W/contribuicao.png" width = "150"/>
+<img alt= "contribuicao" src="https://i.ibb.co/X5ZQW2h/contribuicao.png" width = "150"/>
 
 <i>Figura 2: Legenda para a classificação de contribuições. Autor: Giovana Dionisio.</i>
  
