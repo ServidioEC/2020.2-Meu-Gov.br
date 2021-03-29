@@ -45,7 +45,7 @@
 <i>Figura 3: Legenda para a classificação da satisfação dos softgoals. Autor: Giovana Dionisio.</i>  
 
 ## NFR Geral
-<img alt= "NFRgeral" src="https://i.ibb.co/KxNBL5n/NFRGeral.png" width = "400"/>
+<img alt= "NFRgeral" src="https://i.ibb.co/xSzCvgD/NFRGeral.png" width = "600"/>
 
 <i>Figura 4: NFR de portabilidade, com propagação. Autor: Giovana Dionisio.</i>
 
