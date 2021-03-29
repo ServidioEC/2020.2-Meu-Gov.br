@@ -38,6 +38,6 @@ nav:
           - Cenários: 'Modelagem_Requisitos/Cenarios.md'
           - Especificação Suplementar: 'Modelagem_Requisitos/EspecificacaoSuplementar.md'
           - Léxicos: 'Modelagem_Requisitos/Léxicos.md'
-          - NFR: 'Modelagem_Requisitos/NFR.md'
+          - NFR Framework: 'Modelagem_Requisitos/NFR.md'
     - Análise de Requisitos: 'Analise_Requisitos/'
 docs_dir: docs/
