@@ -6,8 +6,8 @@
 | 30/03/2021 | 0.1    | Criação do documento                                | Eduarda Servidio          | ------- |
 | 30/03/2021 | 0.2    | Adição das Metodologias e separação dos tópicos     | Eduarda Servidio          | ------- |
 
-## Metodologia - Histórias de Usário
-<p align="justify">Histórias de Usário são artefatos de desenvolvimento utilizados em sistemas geridos
+## Metodologia - Histórias de Usuário
+<p align="justify">Histórias de Usuário são artefatos de desenvolvimento utilizados em sistemas geridos
 segundo metodologias ágeis. São descrições simples que descrevem uma
 funcionalidade e é recomendável que sejam escritas segundo o ponto de vista do usuário.
 Elas são curtas, simples, claras e focam nos objetivos do usuário e como o sistema alcança esses objetivos.</p>
