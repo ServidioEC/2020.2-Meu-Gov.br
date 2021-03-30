@@ -17,7 +17,7 @@ Elas são curtas, simples, claras e focam nos objetivos do usuário e como o sis
 possui muita incerteza e portanto não pode ser transformada em incremento do produto.
 O épico deve ser separado em histórias de usuário menores.</p>
 
-##Épico - Cadastro
+##Épico - Acesso ao aplicativo
 ###US01 - Realizar Cadastro
 #### Critérios de Aceitação
 
