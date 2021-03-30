@@ -1,11 +1,13 @@
-#Histórias de Usuário
+# Histórias de Usuário
+
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                           | Autores                   | Revisor |
 | ---------- | ------ | --------------------------------------------------- | ------------------------- | ------- |
-| 30/03/2021 | 0.1    | Criação do documento                                | Eduarda Servidio          | ------- |
-| 30/03/2021 | 0.2    | Adição das Metodologias e separação dos tópicos     | Eduarda Servidio          | ------- |
-| 30/03/2021 | 0.3    | Adição das Histórias no Épico Acesso ao Aplicativo  | Eduarda Servidio          | ------- |
+| 30/03/2021 | 0.1    | Criação do documento                                | Eduarda Servidio          | Gabriela Pivetta |
+| 30/03/2021 | 0.2    | Adição das Metodologias e separação dos tópicos     | Eduarda Servidio          | Gabriela Pivetta |
+| 30/03/2021 | 0.3    | Adição das Histórias no Épico Acesso ao Aplicativo  | Eduarda Servidio          | Gabriela Pivetta |
+| 30/03/2021 | 0.4    | Adição das Histórias nos Épicos Área do Usuário e Apoio ao Usuário  | Gabriela Pivetta          | ------- |
 
 ## Metodologia - Histórias de Usuário
 <p align="justify">Histórias de Usuário são artefatos de desenvolvimento utilizados em sistemas geridos
@@ -18,8 +20,9 @@ Elas são curtas, simples, claras e focam nos objetivos do usuário e como o sis
 possui muita incerteza e portanto não pode ser transformada em incremento do produto.
 O épico deve ser separado em histórias de usuário menores.</p>
 
-##Épico - Acesso ao aplicativo
-###US01 - Realizar Cadastro
+## Épico - Acesso ao aplicativo
+
+### US01 - Realizar Cadastro
 Eu como usuário visitante desejo poder me cadastrar no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve mostrar as opções de cadastro
@@ -28,7 +31,7 @@ Eu como usuário visitante desejo poder me cadastrar no aplicativo Meu Gov.br.
 (Existem 6 opções para escolha: Validação Facial, Bancos Credenciados,
 Internet Banking, Número do CPF, Certificado digital e Certificado digital em nuvem).
 
-###US02 - Login
+### US02 - Login
 Eu como usuário cadastrado desejo poder me logar no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve possuir o campo para preencher CPF e Senha.
@@ -37,7 +40,7 @@ Eu como usuário cadastrado desejo poder me logar no aplicativo Meu Gov.br.
 * Realizar a validação facial.
 * Disponibilizar acesso ao usuário cadastrado.
 
-###US03 - Logout
+### US03 - Logout
 Eu como usuário logado desejo poder me deslogar do aplicativo Meu Gov.br
 #### Critérios de Aceitação
 * Deve haver um botão de logout.
@@ -45,7 +48,7 @@ Eu como usuário logado desejo poder me deslogar do aplicativo Meu Gov.br
 * Retornar a tela de login.
 * Não permitir o usuário acessar as funcionalidades do aplicativo deslogado.
 
-###US04 - Recuperar Senha
+### US04 - Recuperar Senha
 Eu como usuário visitante desejo poder recuperar a minha senha no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve possuir um campo para receber o CPF.
@@ -56,29 +59,47 @@ bancos credenciados, e-mail, celular e internet banking) a forma
 que quer utilizar para recuperar a senha.
 * Deve direcionar o usuário para a tela Login depois de recuperar a senha.
 
-###US05 - Leitura QRCode
-Eu como usuário visitante desejo poder ler o QRCode gerado no computador sem logar no aplicativo Meu Gov.br.
+### US05 - Leitura QR Code
+Eu como usuário visitante desejo poder ler o QR Code gerado no computador sem logar no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
-* Deve haver um botão para leitura de QRCode.
+* Deve haver um botão para leitura de QR Code.
 * Deve haver acesso a câmera do dispositivo.
 * Deve haver uma validação do QRCode.
 
-##Épico - Área do Usuário
-###US06 - Acessar os documentos
-#### Critérios de Aceitação
+## Épico - Área do Usuário
 
-###US07 - Leitura QRCode
+### US06 - Acessar os documentos
+Eu como usuário logado desejo poder vizualizar meus documentos cadastrados no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve haver um botão que direcione o usuário para a área dos documentos.
+* Os documentos devem estar disponíveis para vizualição.
+* Os documentos disponíveis devem ser correspondentes com o usuário.
 
-##Épico - Apoio ao Usuário
-###US08 - Acessar Dúvidas Frequentes
+### US07 - Acessar QR Code referente ao CPF
+Eu como usuário logado desejo poder acessar o QR Code referente ao meu CPF no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve haver um botão para vizualizar o QRCode.
+* Deve haver uma validação do QRCode.
 
-###US09 - Rever Instruções do Aplicativo
-#### Critérios de Aceitação
+## Épico - Apoio ao Usuário
 
-###US10 - Rever Política de Privacidade
+### US08 - Acessar Dúvidas Frequentes
+Eu como usuário visitante desejo poder vizualizar as dúvidas frequentes dos usuários do aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve haver um botão que direcione o usuário para a área das dúvidas frequentes.
+* Devem ser apresentadas as dúvidas frequentes dos usuários.
+
+### US09 - Rever Instruções do Aplicativo
+Eu como usuário logado desejo poder vizualizar as instruções do aplicativo Meu Gov.br.
+#### Critérios de Aceitação
+* Deve haver um botão que direcione o usuário para uma aba com as intruções do aplicativo.
+* Devem haver as instruções sobre o aplicativo na aba aberta.
+
+### US10 - Rever Política de Privacidade
+Eu como usuário logado desejo poder vizualizar a Política de Privacidade do aplicativo Meu Gov.br.
+#### Critérios de Aceitação
+* Deve haver um botão que direcione o usuário para uma página com a Política de Privacidade do aplicativo Meu Gov.br.
+* Deve haver a Política de Privacidade na página aberta.
 
 ## Referências Bibliográficas
 <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.</p>
