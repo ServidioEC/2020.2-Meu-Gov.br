@@ -69,34 +69,34 @@ Eu como usuário visitante desejo poder ler o QR Code gerado no computador sem l
 ## Épico - Área do Usuário
 
 ### US06 - Acessar os documentos
-Eu como usuário logado desejo poder vizualizar meus documentos cadastrados no aplicativo Meu Gov.br.
+Eu como usuário logado desejo poder visualizar meus documentos cadastrados no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve haver um botão que direcione o usuário para a área dos documentos.
-* Os documentos devem estar disponíveis para vizualição.
+* Os documentos devem estar disponíveis para visualização.
 * Os documentos disponíveis devem ser correspondentes com o usuário.
 
 ### US07 - Acessar QR Code referente ao CPF
 Eu como usuário logado desejo poder acessar o QR Code referente ao meu CPF no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
-* Deve haver um botão para vizualizar o QRCode.
+* Deve haver um botão para visualizar o QRCode.
 * Deve haver uma validação do QRCode.
 
 ## Épico - Apoio ao Usuário
 
 ### US08 - Acessar Dúvidas Frequentes
-Eu como usuário visitante desejo poder vizualizar as dúvidas frequentes dos usuários do aplicativo Meu Gov.br.
+Eu como usuário visitante desejo poder visualizar as dúvidas frequentes dos usuários do aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve haver um botão que direcione o usuário para a área das dúvidas frequentes.
 * Devem ser apresentadas as dúvidas frequentes dos usuários.
 
 ### US09 - Rever Instruções do Aplicativo
-Eu como usuário logado desejo poder vizualizar as instruções do aplicativo Meu Gov.br.
+Eu como usuário logado desejo poder visualizar as instruções do aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve haver um botão que direcione o usuário para uma aba com as intruções do aplicativo.
 * Devem haver as instruções sobre o aplicativo na aba aberta.
 
 ### US10 - Rever Política de Privacidade
-Eu como usuário logado desejo poder vizualizar a Política de Privacidade do aplicativo Meu Gov.br.
+Eu como usuário logado desejo poder visualizar a Política de Privacidade do aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve haver um botão que direcione o usuário para uma página com a Política de Privacidade do aplicativo Meu Gov.br.
 * Deve haver a Política de Privacidade na página aberta.
