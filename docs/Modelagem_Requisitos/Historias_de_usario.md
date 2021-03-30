@@ -7,7 +7,7 @@
 | 30/03/2021 | 0.1    | Criação do documento                                | Eduarda Servidio          | Gabriela Pivetta |
 | 30/03/2021 | 0.2    | Adição das Metodologias e separação dos tópicos     | Eduarda Servidio          | Gabriela Pivetta |
 | 30/03/2021 | 0.3    | Adição das Histórias no Épico Acesso ao Aplicativo  | Eduarda Servidio          | Gabriela Pivetta |
-| 30/03/2021 | 0.4    | Adição das Histórias nos Épicos Área do Usuário e Apoio ao Usuário  | Gabriela Pivetta          | ------- |
+| 30/03/2021 | 0.4    | Adição das Histórias nos Épicos Área do Usuário e Apoio ao Usuário  | Gabriela Pivetta          | Eduarda Servidio |
 
 ## Metodologia - Histórias de Usuário
 <p align="justify">Histórias de Usuário são artefatos de desenvolvimento utilizados em sistemas geridos
