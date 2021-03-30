@@ -1,4 +1,4 @@
-#Historias de Usuário
+#Histórias de Usuário
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                           | Autores                   | Revisor |
@@ -6,13 +6,13 @@
 | 30/03/2021 | 0.1    | Criação do documento                                | Eduarda Servidio          | ------- |
 | 30/03/2021 | 0.2    | Adição das Metodologias e separação dos tópicos     | Eduarda Servidio          | ------- |
 
-## Metodologia - Histórias de Uso
-<p align="justify">Histórias de Uso são artefatos de desenvolvimento utilizados em sistemas geridos
+## Metodologia - Histórias de Usário
+<p align="justify">Histórias de Usário são artefatos de desenvolvimento utilizados em sistemas geridos
 segundo metodologias ágeis. São descrições simples que descrevem uma
 funcionalidade e é recomendável que sejam escritas segundo o ponto de vista do usuário.
 Elas são curtas, simples, claras e focam nos objetivos do usuário e como o sistema alcança esses objetivos.</p>
 
-## Meodologia - Épicos
+## Metodologia - Épicos
 <p align="justify">Um épico é uma história de usuário que ainda não foi detalhada, é muito grande ou ainda
 possui muita incerteza e portanto não pode ser transformada em incremento do produto.
 O épico deve ser separado em histórias de usuário menores.</p>
@@ -30,21 +30,24 @@ O épico deve ser separado em histórias de usuário menores.</p>
 ###US04 - Recuperar Senha
 #### Critérios de Aceitação
 
-##Épico - Área de Usuário
-###US05 - Acessar os documentos
+###US05 - Leitura QRCode
 #### Critérios de Aceitação
 
-###US06 - Leitura QRCode
+##Épico - Área do Usuário
+###US06 - Acessar os documentos
+#### Critérios de Aceitação
+
+###US07 - Leitura QRCode
 #### Critérios de Aceitação
 
 ##Épico - Apoio ao Usuário
-###US07 - Acessar Dúvidas Frequentes
+###US08 - Acessar Dúvidas Frequentes
 #### Critérios de Aceitação
 
-###US08 - Rever Instruções do Aplicativo
+###US09 - Rever Instruções do Aplicativo
 #### Critérios de Aceitação
 
-###US09 - Rever Política de Privacidade
+###US10 - Rever Política de Privacidade
 #### Critérios de Aceitação
 
 ## Referências Bibliográficas
