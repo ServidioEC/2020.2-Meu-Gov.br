@@ -19,19 +19,48 @@ O épico deve ser separado em histórias de usuário menores.</p>
 
 ##Épico - Acesso ao aplicativo
 ###US01 - Realizar Cadastro
+Eu como usuário visitante desejo poder me cadastrar no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve mostrar as opções de cadastro
+* Deve cadastrar somente se o usuário tiver CPF
+* Ser possível escolher o modo de como o usuário quer cadastrar
+(Existem 6 opções para escolha: Validação Facial, Bancos Credenciados,
+Internet Banking, Número do CPF, Certificado digital e Certificado digital em nuvem).
 
 ###US02 - Login
+Eu como usuário cadastrado desejo poder me logar no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve possuir o campo para preencher CPF e Senha.
+* Ser possível realizar o login de usuário com CPF cadastrado.
+* Validar as credenciais de acesso.
+* Realizar a validação facial.
+* Disponibilizar acesso ao usuário cadastrado.
 
 ###US03 - Logout
+Eu como usuário logado desejo poder me deslogar do aplicativo Meu Gov.br
 #### Critérios de Aceitação
+* Deve haver um botão de logout.
+* Retirar as credenciais de acesso do usuário da sessão.
+* Retornar a tela de login.
+* Não permitir o usuário acessar as funcionalidades do aplicativo deslogado.
 
 ###US04 - Recuperar Senha
+Eu como usuário visitante desejo poder recuperar a minha senha no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve possuir um campo para receber o CPF.
+* Verificar se o CPF está cadastrado.
+* Deve validar por meio de um CAPTCHA a recuperação da conta.
+* Deve ser possível escolher entre 5 opções (validação facial,
+bancos credenciadsos, e-mail, celular e internet banking) a forma
+que quer utilizar para recuperar a senha.
+* Deve direcionar o usuário para a tela Login depois de recuperar a senha.
 
 ###US05 - Leitura QRCode
+Eu como usuário visitante desejo poder ler o QRCode gerado no computador para recuperar minha conta/senha no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
+* Deve haver um botão para leitura de QRCode.
+* Deve haver acesso a câmera do dispositivo.
+* Deve haver uma validação do QRCode.
 
 ##Épico - Área do Usuário
 ###US06 - Acessar os documentos
