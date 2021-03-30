@@ -52,12 +52,12 @@ Eu como usuário visitante desejo poder recuperar a minha senha no aplicativo Me
 * Verificar se o CPF está cadastrado.
 * Deve validar por meio de um CAPTCHA a recuperação da conta.
 * Deve ser possível escolher entre 5 opções (validação facial,
-bancos credenciadsos, e-mail, celular e internet banking) a forma
+bancos credenciados, e-mail, celular e internet banking) a forma
 que quer utilizar para recuperar a senha.
 * Deve direcionar o usuário para a tela Login depois de recuperar a senha.
 
 ###US05 - Leitura QRCode
-Eu como usuário visitante desejo poder ler o QRCode gerado no computador para recuperar minha conta/senha no aplicativo Meu Gov.br.
+Eu como usuário visitante desejo poder ler o QRCode gerado no computador sem logar no aplicativo Meu Gov.br.
 #### Critérios de Aceitação
 * Deve haver um botão para leitura de QRCode.
 * Deve haver acesso a câmera do dispositivo.
