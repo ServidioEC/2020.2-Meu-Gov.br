@@ -39,8 +39,8 @@ nav:
           - Especificação Suplementar: 'Modelagem_Requisitos/EspecificacaoSuplementar.md'
           - Léxicos: 'Modelagem_Requisitos/Léxicos.md'
     - Modelagem de Requisitos - Ágil:
-          - Backlog: ''
-          - Histórias de Usuário: 'Modelagem_Requisitos/Historias_de_usario.md'
+          - Backlog: 'Modelagem_Requisitos/Backlog.md'
+          - Histórias de Usuário: 'Modelagem_Requisitos/Historias_de_usuario.md'
           - NFR Framework: 'Modelagem_Requisitos/NFR.md'
-    - Análise de Requisitos: 'Analise_Requisitos/'
+    # - Análise de Requisitos: 'Analise_Requisitos/'
 docs_dir: docs/
