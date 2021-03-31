@@ -2,15 +2,15 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                             | Autores                         | Revisor |
-| ---------- | ------ | ----------------------------------------------------- | ------------------------------- | ------- |
-| 28/03/2021 | 0.1    | Criação do documento                                  | Luis Marques e Giovana Dionisio | -----   |
-| 29/03/2021 | 0.2    | Adição de NFR usabilidade,confiabilidade e desempenho | Luis Marques                    | -----   |
-| 29/03/2021 | 0.3    | Adição da definição e legendas                        | Giovana Dionisio                | -----   |
-| 29/03/2021 | 0.4    | Adição de NFR geral, portabilidade e disponibilidade  | Giovana Dionisio                | -----   |
+| Data       | Versão | Descrição                                             | Autores                         | Revisor       |
+| ---------- | ------ | ----------------------------------------------------- | ------------------------------- | ------------- |
+| 28/03/2021 | 0.1    | Criação do documento                                  | Luis Marques e Giovana Dionisio | Pedro Haick   |
+| 29/03/2021 | 0.2    | Adição de NFR usabilidade,confiabilidade e desempenho | Luis Marques                    | Pedro Haick   |
+| 29/03/2021 | 0.3    | Adição da definição e legendas                        | Giovana Dionisio                | Pedro Haick   |
+| 29/03/2021 | 0.4    | Adição de NFR geral, portabilidade e disponibilidade  | Giovana Dionisio                | Pedro Haick   |
 
 ## Definição
-<p align="justify"> O NFR Framework trata de uma abordagem orientada a requisitos não funcionais que auxilia na condução da Engenharia de Requisitos. Este Framework auxilia os desenvolvedores na implementação de soluções personalizadas para o produto de software, os guiando na escolha dentre as possíveis alternativas de desenvolvimento. </p>
+<p align="justify"> O NFR Framework trata de uma abordagem orientada a requisitos não funcionais que auxilia na condução da Engenharia de Requisitos. Esse Framework auxilia os desenvolvedores na implementação de soluções personalizadas para o produto de software, os guiando na escolha dentre as possíveis alternativas de desenvolvimento. </p>
 <p align="justify"> A representação dos requisitos dentro no NFR Framework é realizada através de softgoals. Os softgoals caracterizam objetivos em um alto nível de abstração, sem definições ou critérios de satisfação precisos. Eles podem representar requisitos não funcionais (softgoals NFR), funcionalidades (softgoals de operacionalização) ou argumentações sobre a modelagem (softgoals de afirmação). </p>
 <p align="justify"> Para a avaliação da satisfação ou não dos softgoals são estudadas suas inter-relações e influências exercidas. Tais relações são classificadas de acordo com a contribuição que os softgoals estabelecem e são divididas em: </p>
  
