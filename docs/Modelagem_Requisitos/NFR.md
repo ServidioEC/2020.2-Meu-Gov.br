@@ -47,7 +47,7 @@
 ## NFR Geral
 <img alt= "NFRgeral" src="https://i.ibb.co/xSzCvgD/NFRGeral.png" width = "600"/>
 
-<i>Figura 4: NFR de portabilidade, com propagação. Autor: Giovana Dionisio.</i>
+<i>Figura 4: NFR Geral. Autor: Giovana Dionisio.</i>
 
 ## NFR de Usabilidade
 ### Sem propagação
