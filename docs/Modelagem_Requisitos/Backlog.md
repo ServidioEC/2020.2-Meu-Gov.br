@@ -4,8 +4,8 @@
 
 | Data       | Versão | Descrição                                           | Autores                   | Revisor |
 | ---------- | ------ | --------------------------------------------------- | ------------------------- | ------- |
-| 30/03/2021 | 0.1    | Criação do documento                                | Pedro Haick               | ------- |
-| 30/03/2021 | 0.2    | Correção de erros                                   | Pedro Haick               | ------- |
+| 30/03/2021 | 0.1    | Criação do documento                                | Pedro Haick               | Eduarda Servidio |
+| 30/03/2021 | 0.2    | Correção de erros                                   | Pedro Haick               | Eduarda Servidio |
 
 ## Introdução
 
