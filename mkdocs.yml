@@ -20,7 +20,7 @@ nav:
           - Apresentação 01: 'Apresentacao/apresentacao1.md'
           - Apresentação 02: 'Apresentacao/apresentacao2.md'
           - Apresentação 03: 'Apresentacao/apresentacao3.md'
-          #  - Apresentacao 04: ''
+          - Apresentacao 04: 'Apresentacao/apresentacao4.md'
           #  - Apresentacao 05: ''
           #  - Apresentacao 06: ''
     - Planejamento: 'Planejamento/Planejamento.md'
