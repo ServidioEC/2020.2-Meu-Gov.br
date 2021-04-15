@@ -32,10 +32,9 @@
 | 4         | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔    |
 | 5         | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔    |
 
-Legenda: R. = Requisito. Exemplo: R.01 = Requisito 01.
+Legenda: R. = Requisito. Exemplo: R.1 = Requisito 01.
 
 ## Conclusão
 
 <p align="justify">Feito o Checklist da introspecção, pode-se concluir que os requisitos avaliados
-estão descritos e identificados de forma correta, de acordo com as questões levantadas no
-checklist.</p>
+estão descritos e identificados de forma correta.</p>
