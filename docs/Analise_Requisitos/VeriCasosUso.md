@@ -1,8 +1,10 @@
+# Verificação dos Casos de Uso
 ## Histórico de Versões
 
 | Data       | Versão | Descrição            | Autores      | Revisor |
 | ---------- | ------ | -------------------- | ------------ | ------- |
 | 14/04/2021 | 0.1    | Criação do Documento | Luis Marques | Gabriela Pivetta |
+| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---     |
 
 ## Contexto
 
