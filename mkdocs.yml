@@ -50,6 +50,7 @@ nav:
                 - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
                 - Personas: 'Analise_Requisitos/VeriPersonas.md'
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
+                - Questionário: 'Analise_Requisitos/VeriQuestionario.md'
                 - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
 
 docs_dir: docs/
