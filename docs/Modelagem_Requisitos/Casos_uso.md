@@ -7,7 +7,7 @@
 | 19/03/2021 | 0.3    | Adição dos demais diagramas                                           | Gabriela Pivetta | Luis Marques     |
 | 19/03/2021 | 0.4    | Adição das legendas das imagens                                       | Gabriela Pivetta | Luis Marques     |
 | 19/03/2021 | 0.5    | Adição de tabelas de casos de uso                                     | Luis Marques     | Gabriela Pivetta |
-| 21/03/2021 | 0.6    | Adição de tabela login, correções ortografica e adição de Referencias | Luis Marques     | Gabriela Pivetta |
+| 21/03/2021 | 0.6    | Adição de tabela login, correções ortográfica e adição de Referencias | Luis Marques     | Gabriela Pivetta |
 | 21/03/2021 | 0.7    | Adição Introdução                                                     | Luis Marques     | Gabriela Pivetta |
 | 21/03/2021 | 0.8    | Correções nos textos, informações e diagramas                         | Gabriela Pivetta | Luis Marques     |
 

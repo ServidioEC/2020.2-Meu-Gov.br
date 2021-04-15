@@ -1,9 +1,10 @@
 # Verificação das Personas
+
 ## Histórico de Versões
 
-| Data       | Versão | Descrição               | Autores          | Revisor          |
-| ---------- | ------ | ----------------------- | ---------------- | ---------------- |
-| 15/04/2021 | 0.1    | Criação do Documento e Adição do Checklist e das Respostas   | Eduarda Servidio | ---------------- |
+| Data       | Versão | Descrição                                                  | Autores          | Revisor          |
+| ---------- | ------ | ---------------------------------------------------------- | ---------------- | ---------------- |
+| 15/04/2021 | 0.1    | Criação do Documento e Adição do Checklist e das Respostas | Eduarda Servidio | Giovana Dionisio |
 
 ## Contexto
 
@@ -26,14 +27,14 @@ Autor e Inspetor: Eduarda Servidio.
 
 ## Respostas
 
-|Perguntas  | Persona 1    | Persona 2    | Anti-persona |
-| --------- | ------------ | ------------ | ------------ |
-|           | Marcos Jorge | Ana Júlia    | Sophia       |
-| 1    | ✔            | ✔           | ✔            |
-| 2    | ✔            | ✔           | ✔            |
-| 3    | ✔            | ✔           | ✔            |
-| 4    | ✔            | ✔           | ✔            |
-| 5    | ✔            | ✔           | ✔            |
+| Perguntas | Persona 1    | Persona 2 | Anti-persona |
+| --------- | ------------ | --------- | ------------ |
+|           | Marcos Jorge | Ana Júlia | Sophia       |
+| 1         | ✔            | ✔         | ✔            |
+| 2         | ✔            | ✔         | ✔            |
+| 3         | ✔            | ✔         | ✔            |
+| 4         | ✔            | ✔         | ✔            |
+| 5         | ✔            | ✔         | ✔            |
 
 Legenda: ✔ = está contido. ✖ = não está contido.
 
@@ -46,4 +47,4 @@ há uma introdução bem definida no início do documento referente às Personas
 
 ## Acompanhamento
 
-<p align="justify">A inclusão de mais uma persona ao documento, levantada na conclusão, foi realizada seguindo os critérios do checklist.</p> 
+<p align="justify">A inclusão de mais uma persona ao documento, levantada na conclusão, foi realizada seguindo os critérios do checklist.</p>
