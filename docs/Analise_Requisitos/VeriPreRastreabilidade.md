@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição            | Autores          | Revisor |
 | ---------- | ------ | -------------------- | ---------------  | ------- |
 | 14/04/2021 | 0.1    | Criação do Documento | Gabriela Pivetta | Eduarda Servidio |
+| 15/04/2021 | 0.2    | Adição das Legendas  | Gabriela Pivetta | Eduarda Servidio |
 
 ## Contexto
 
@@ -30,6 +31,8 @@
 | 11     | O desenho é inteligível?  	                        | ✔        |
 | 12     | Possui fronteiras?        	                        | ✔        |
 | 13     | As ações estão corretas?    	                        | ✖        |
+
+Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
