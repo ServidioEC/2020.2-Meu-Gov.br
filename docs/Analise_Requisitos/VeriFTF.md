@@ -4,11 +4,11 @@
 
 | Data       | Versão | Descrição            | Autores      | Revisor |
 | ---------- | ------ | -------------------- | ------------ | ------- |
-| 14/04/2021 | 0.1    | Criação do Documento | Luis Marques | ---     |
+| 14/04/2021 | 0.1    | Criação do Documento | Luis Marques | Eduarda Servidio     |
 
 ## Contexto
 
-<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/Priorizacao/ftf/" > Fist Thing First </a> </p>
+<p align="justify">O documento avaliado foi o do<a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/Priorizacao/ftf/" > First Thing First. </a> </p>
 
 ## Metodologia
 
@@ -22,7 +22,7 @@ Autor e Inspetor: Luis Marques.
 2. Algum campo ficou sem preenchimento ?
 3. Algum requisito não foi avaliado ?
 
-<p align="justify"> A partir do checklist acima, a priorização da técnica Fist Things Fist do projeto do projeto foi avaliada. </p>
+<p align="justify"> A partir do checklist acima, a priorização da técnica First Things First do projeto foi avaliada. </p>
 
 ## Avaliação
 
@@ -46,4 +46,4 @@ Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
-<p align="justify"> Pela Analise da priorização através do checklist , foi atestado que eles foram realizados de forma correta </p>
+<p align="justify"> Pela Análise da priorização através do checklist, foi atestado que eles foram realizados de forma correta. </p>
