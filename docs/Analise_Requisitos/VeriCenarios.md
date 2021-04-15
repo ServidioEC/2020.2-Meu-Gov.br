@@ -1,8 +1,11 @@
+# Verificação dos Cenários
+
 ## Histórico de Versões
 
 | Data       | Versão | Descrição            | Autores      | Revisor |
 | ---------- | ------ | -------------------- | ------------ | ------- |
 | 15/04/2021 | 0.1    | Criação do Documento | Luis Marques | ---     |
+| 15/04/2021 | 0.2    | Adição titulo        | Luis Marques | ---     |
 
 ## Contexto
 
