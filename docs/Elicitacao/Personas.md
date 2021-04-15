@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição                                                                                            | Autores          | Revisor      |
 | ---------- | ------ | ---------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
 | 18/03/2021 | 0.1    | Criação do documento e adição das personas                                                           | Eduarda Servidio | Luis Marques |
+| 15/04/2021 | 0.2    | Adição de uma terceira persona                                                                       | Eduarda Servidio | Luis Marques |
 
 ## Descrição e Motivação
 
@@ -36,6 +37,26 @@
 | Expectativas | Conseguir validar seu CPF pelo aplicativo Meu Gov.br                          |
 
 <p align="justify">Ana Júlia é estudante e está finalizando o Ensino Médio. Para participar dos Vestibulares Federais, ela precisa ter os documentos de Identidade e CPF. Ansiosa demais, Ana Júlia esqueceu de colocar em sua identidade o número do seu CPF. Agora, ela precisa ter uma forma que valide seu CPF.</p>
+
+### Terceira Persona (Primária)
+
+|              | Persona                                                                       |
+| ------------ | ----------------------------------------------------------------------------- |
+| Foto         | <img alt= "persona-2" src="../Images_personas/Persona_3.jpg" width = "300" /> |
+| Nome         | Filipe Marcos                                                                 |
+| Idade        | 23 anos                                                                       |
+| Profissão    | Engenheiro                                                                    |
+| Hábito       | Visita frequentemente construções para verificação das obras                  |
+| Objetivo     | Ter acesso aos seus documentos pelo celular, para levar o minímo de objetos para seu trabalho (apenas o celular)                                               |
+| Expectativas | Conseguir acessar seus documentos, em especial a CNH, pelo aplicativo Meu Gov.br                          |
+
+<p align="justify">Filipe Marcos é engenheiro e frequentemente visita construções para verificar
+o andamento das obras e o serviço dos funcionários presentes nelas. Filipe gosta de levar consigo
+o minímo possível de objetos pessoais, para evitar esquecer ou que os objetos te atrapalhem
+a executar seu serviço. Por isso, Filipe gostaria de ter acesso aos seus documentos digitais pelo celular
+para evitar, assim, o uso de carteira para carregar seus documentos físicos. Filipe procura por
+um aplicativo para ter acesso aos seus documentos e começar a levar consigo somente o celular
+para as construções.</p>
 
 ### Anti-Persona
 
