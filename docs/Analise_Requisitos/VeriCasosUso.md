@@ -5,11 +5,12 @@
 | Data       | Versão | Descrição                        | Autores          | Revisor          |
 | ---------- | ------ | -------------------------------- | ---------------- | ---------------- |
 | 14/04/2021 | 0.1    | Criação do Documento             | Luis Marques     | Gabriela Pivetta |
-| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---              |
+| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | Eduarda Servidio |
+| 15/04/2021 | 0.3    | Complementação da legenda        | Eduarda Servidio | Gabriela Pivetta |
 
 ## Contexto
 
-<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Modelagem_Requisitos/Casos_uso/" > Casos de Uso </a> </p>
+<p align="justify">O documento avaliado foi o dos<a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Modelagem_Requisitos/Casos_uso/" > Casos de Uso.</a> </p>
 
 ## Metodologia
 
@@ -20,7 +21,7 @@ Autor e Inspetor: Luis Marques.
 ## Checklist
 
 1. O ator principal está correto?
-2. A pre condição está correta?
+2. A pré condição está correta?
 3. O fluxo principal está correto?
 4. O(s) fluxos alternativo(s) está(ão) corretos?
 5. O(s) fluxos de exceção(ões) está(ão) corretos?
@@ -29,7 +30,7 @@ Autor e Inspetor: Luis Marques.
 8. A pós condição está correta?
 9. Existem error ortográficos ?
 
-<p align="justify"> A partir do checklist acima, o integrante Luis Marques avaliou os casos de uso do projeto. </p>
+<p align="justify"> A partir do checklist acima, os casos de uso do projeto foram avaliados. </p>
 
 ## Avaliação
 
@@ -43,7 +44,7 @@ Autor e Inspetor: Luis Marques.
 | UC6                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
 | UC7                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
 
-Legenda: ✔ = está contido. ✖ = não está contido.
+Legenda: UC = Caso de Uso (Exemplo UC1 = Caso de Uso 1). ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
