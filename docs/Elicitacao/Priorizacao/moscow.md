@@ -1,20 +1,12 @@
 # MoSCoW
 
 ## Histórico de Versões
-<<<<<<< HEAD
-| Data       | Versão | Descrição                                      | Autores          | Revisor          |
-| ---------- | ------ | -------------------------------------------    | ---------------- | ---------------- |
-| 08/03/2021 | 0.1    | Criação e elaboração do documento              | Giovana Dionisio | Gabriela Pivetta |
-| 18/03/2021 | 0.2    | Correções com base no _feedback_ da aula 13    | Giovana Dionisio | Eduarda Servidio |
-| 15/04/2021 | 0.3    | Adição do requisito 11 da Introspecção         | Giovana Dionisio | Eduarda Servidio |
-=======
 
 | Data       | Versão | Descrição                                   | Autores          | Revisor          |
 | ---------- | ------ | ------------------------------------------- | ---------------- | ---------------- |
 | 08/03/2021 | 0.1    | Criação e elaboração do documento           | Giovana Dionisio | Gabriela Pivetta |
 | 18/03/2021 | 0.2    | Correções com base no _feedback_ da aula 13 | Giovana Dionisio | Eduarda Servidio |
-| 15/04/2021 | 0.3    | Correção de ortografia                      | Luis Marques     | ----             |
->>>>>>> 6ec095d... update mkdocs and other documents
+| 15/04/2021 | 0.3    | Adição do requisito 11 da Introspecção      | Giovana Dionisio | Eduarda Servidio |
 
 ## Introdução
 
@@ -36,21 +28,6 @@
 ## Priorização
 
 ### Instrospecção
-<<<<<<< HEAD
-| ID | Descrição | Prioridade |
-| -- | --------- | -------- |
-| 1  | O sistema deve ter uma tela agradável, limpa e intuitiva com as opções de cadastro e login | Must have |
-| 2  | O usuário deve poder alterar sua senha caso necessário | Must have | 
-| 3  | O sistema deve realizar a validação facial para usuários novos | Must have |
-| 4  | O sistema deve apresentar uma tela principal com as funcionalidades e informações disponíveis de forma clara | Must have |
-| 5  | O sistema deve disponibilizar documentos oficiais, além do CPF e CNH | Should have |
-| 6  | O usuário deve ter a possibilidade de revisar como é feita a proteção dos seus dados | Must have |
-| 7  | O usuário deve ter a possibilidade de ver e rever as instruções sobre o aplicativo | Must have |
-| 8  | O usuário deve ter a possibilidade de ver e rever a política de privacidade | Must Have |
-| 9  | O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha | Could have |
-| 10 | O usuário deve ser capaz de sair do aplicativo | Must have |
-| 11 | O sistema deve disponibilizar uma aba de Dúvidas Frequentes | Should Have |
-=======
 
 | ID  | Descrição                                                                                                    | Prioridade  |
 | --- | ------------------------------------------------------------------------------------------------------------ | ----------- |
@@ -64,7 +41,7 @@
 | 8   | O usuário deve ter a possibilidade de ver e rever a política de privacidade                                  | Must Have   |
 | 9   | O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha                 | Could have  |
 | 10  | O usuário deve ser capaz de sair do aplicativo                                                               | Must have   |
->>>>>>> 6ec095d... update mkdocs and other documents
+| 11  | O sistema deve disponibilizar uma aba de Dúvidas Frequentes                                                  | Should Have |
 
 ### Questionário
 

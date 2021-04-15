@@ -2,15 +2,6 @@
 
 ## Histórico de Versões
 
-<<<<<<< HEAD
-| Data       | Versão | Descrição               | Autores      | Revisor          |
-| ---------- | ------ | ----------------------- | ------------ | ---------------- |
-| 11/04/2021 | 0.1    | Criação do Documento    | Luis Marques | Gabriela Pivetta |
-| 14/04/2021 | 0.2    | Atualização de símbolos | Luis Marques | Eduarda Servidio |
-| 15/04/2021 | 0.3    | Adição de Legenda e correções de erros ortográficos      | Eduarda Servidio | Gabriela Pivetta |
-| 15/04/2021 | 0.4    | Junção de duas tabelas dos storyboards para uma  | Gabriela Pivetta | Eduarda Servidio |
-| 15/04/2021 | 0.5    | Atualização do Checklist de tabela para lista  | Gabriela Pivetta | Eduarda Servidio |
-=======
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ----------------------------------------------- | ---------------- | ---------------- |
 | 11/04/2021 | 0.1    | Criação do Documento                            | Luis Marques     | Gabriela Pivetta |
@@ -18,7 +9,6 @@
 | 15/04/2021 | 0.3    | Adição de Legenda                               | Eduarda Servidio | Gabriela Pivetta |
 | 15/04/2021 | 0.4    | Junção de duas tabelas dos storyboards para uma | Gabriela Pivetta | ---------        |
 | 15/04/2021 | 0.5    | Atualização do Checklist de tabela para lista   | Gabriela Pivetta | ---------        |
->>>>>>> 6ec095d... update mkdocs and other documents
 
 ## Contexto
 
@@ -31,18 +21,6 @@ Autor e Inspetor: Luis Marques.
 
 ## Checklist
 
-<<<<<<< HEAD
-1. Atores                                         
-2. Ambiente                                       
-3. Tarefas                                        
-4. Motivação de usar a aplicação                  
-5. A história é condizente com o uso do app       
-6. As funcionalidades elicitadas são válidas      
-7. A ferramentas utilizadas foram adequadas            
-8. Passos envolvidos                             
-9. O que motivou a usar o sistema                 
-10. O resultado (satisfação) após o uso do sistema 
-=======
 1. Atores
 2. Ambiente
 3. Tarefas
@@ -53,7 +31,6 @@ Autor e Inspetor: Luis Marques.
 8. Passos envolvidos
 9. O que motivou a usar o sistema
 10. O resultado (satisfação) Após o uso do sistema
->>>>>>> 6ec095d... update mkdocs and other documents
 
 <p align="justify"> A partir do checklist montado acima, os storyboards do projeto foram avaliados. </p>
 
