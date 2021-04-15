@@ -32,7 +32,7 @@
 
 ## Conclusão
 
-De acordo com a verificação, existe apenas um elemento (ação) que não foi representado corretamente (com o símbolo circular) no Rich Picture. Fora isso, o restante do documento está de acordo com o que se espera.
+<p align="justify">De acordo com a verificação, existe apenas um elemento (ação) que não foi representado corretamente (com o símbolo circular) no Rich Picture. Fora isso, o restante do documento está de acordo com o que se espera.</p>
 
 ## Acompanhamento
 
