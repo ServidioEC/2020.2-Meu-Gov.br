@@ -3,10 +3,11 @@
 
 | Data       | Versão | Descrição                        | Autores                   | Revisor |
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
-| 21/03/2021 | 0.1    | Criação do documento             | Eduarda Servidio          | ------- |
-| 21/03/2021 | 0.2    | Adição da Definição e Metodologia| Eduarda Servidio          | ------- |
-| 21/03/2021 | 0.3    | Adição dos Léxicos               | Eduarda Servidio          | ------- |
+| 21/03/2021 | 0.1    | Criação do documento             | Eduarda Servidio          | Gabriela Pivetta |
+| 21/03/2021 | 0.2    | Adição da Definição e Metodologia| Eduarda Servidio          | Gabriela Pivetta |
+| 21/03/2021 | 0.3    | Adição dos Léxicos               | Eduarda Servidio          | Gabriela Pivetta |
 | 21/03/2021 | 0.4    | Pequenas Correções               | Eduarda Servidio          | Giovana Dionisio |
+| 15/04/2021 | 0.5    | Correção nos Léxicos Login e Logout | Eduarda Servidio       | Giovana Dionisio |
 
 ## Definição
 <p align="justify">"Léxicos consistem em símbolos compostos por palavras ou frases que representem termos particulares de um determinado domínio, podendo ser de quatro tipos: objeto, sujeito, verbo e estado. Têm como objetivo expressar a linguagem do universo de um problema sem levar em consideração o problema, e sim o seu contexto."</p>
@@ -57,12 +58,12 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 ### Léxico 08 - Login
 | Classificação       | Noção                                       | Impacto                                                         | Sinônimos       | 
 | ------------------- | ------------------------------------------- | --------------------------------------------------------------- | --------------- |
-| Objeto              | Acesso ao aplicativo e suas funcionalidades | O usuário deve poder realizar o login inserindo seu CPF e senha | Acessar, entrar |
+| Verbo               | Acessar o aplicativo e suas funcionalidades | O usuário deve poder realizar o login inserindo seu CPF e senha | Acessar, entrar |
 
 ### Léxico 09 - Logout
 | Classificação       | Noção                                       | Impacto                                                              | Sinônimos       | 
 | ------------------- | ------------------------------------------- | -------------------------------------------------------------------- | --------------- |
-| Objeto              | Sair do aplicativo                          | O usuário deve poder realizar o logout no aplicativo quando desejar  | Encerrar, sair  |
+| Verbo               | Sair do aplicativo                          | O usuário deve poder realizar o logout no aplicativo quando desejar  | Encerrar, sair  |
 
 ### Léxico 10 - Política de Privacidade
 | Classificação       | Noção                                            | Impacto                                                          | Sinônimos  | 
