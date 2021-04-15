@@ -12,7 +12,9 @@
 
 ## Metodologia
 
-<p align="justify">A verificação do documento de Pré-Rastreabilidade foi feita utilizando a técnica de leitura checklist, com foco na análise do Rich Picture. </p>
+<p align="justify">
+Técnica utilizada: Leitura Checklist, com foco na análise do Rich Picture.</p>
+Autor e Inspetor: Gabriela Pivetta.
 
 ## Checklist
 

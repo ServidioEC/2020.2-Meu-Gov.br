@@ -46,6 +46,7 @@ nav:
           - Validação:
                 - Prototipagem: 'Analise_Requisitos/prototipagem.md'
           - Verificação:
+                - Backlog: 'Analise_Requisitos/VeriBacklog.md'
                 - First Things First: 'Analise_Requisitos/VeriFTF.md'
                 - Histórias de Usuário: 'Analise_Requisitos/VeriHistorias.md'
                 - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
