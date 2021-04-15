@@ -47,7 +47,7 @@ Autor e Inspetor: Gabriela Pivetta.
 | 9       | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   |
 | 10      | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   |
 
-Legenda: ✔ = está contido. ✖ = não está contido.
+Legenda: F. = Funcionalidade (Exemplo: F01 = Funcionalidade 1). ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
