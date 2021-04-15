@@ -4,7 +4,8 @@
 | Data       | Versão | Descrição               | Autores      | Revisor          |
 | ---------- | ------ | ----------------------- | ------------ | ---------------- |
 | 11/04/2021 | 0.1    | Criação do Documento    | Luis Marques | Gabriela Pivetta |
-| 14/04/2021 | 0.2    | Atualização de símbolos | Luis Marques | -----            |
+| 14/04/2021 | 0.2    | Atualização de símbolos | Luis Marques | Eduarda Servidio |
+| 15/04/2021 | 0.3    | Adição de Legenda | Eduarda Servidio | ---------------- |
 
 ## Contexto
 
@@ -45,6 +46,7 @@
 | Passos envolvidos                              | ✔         |
 | O que motivou a usar o sistema                 | ✔         |
 | O resultado (satisfação) Após o uso do sistema | ✔         |
+Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Storyboard 2
 
@@ -60,6 +62,7 @@
 | Passos envolvidos                              | ✔         |
 | O que motivou a usar o sistema                 | ✔         |
 | O resultado (satisfação) Após o uso do sistema | ✔         |
+Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
