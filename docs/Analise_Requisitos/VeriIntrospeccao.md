@@ -37,4 +37,5 @@ Legenda: R. = Requisito. Exemplo: R.1 = Requisito 01.
 ## Conclusão
 
 <p align="justify">Feito o Checklist da introspecção, pode-se concluir que os requisitos avaliados
-estão descritos e identificados de forma correta.</p>
+estão descritos e identificados de forma correta. Bem como, há uma introdução sucinta no
+início do documento referente à Introspecção.</p>
