@@ -12,6 +12,7 @@
 ## Metodologia
 
 <p align="justify">Técnica utilizada: Leitura Checklist.</p>
+Autor e Inspetor: Eduarda Servidio.
 
 ## Checklist
 
@@ -29,18 +30,19 @@
 
 ## Respostas
 
-|Perguntas  | Resposta |
-| --------- | -------- |
-| 1         | ✔        |
-| 2         | ✔        |
-| 3         | ✔        |
-| 4         | ✔        |
-| 5         | ✔        |
-| 6         | ✔        |
-| 7         | ✔        |
-| 8         | ✔        |
-| 9         | ✔        |
+| Nº  | Questões | Resposta |
+| --------- | -------- | -------- |
+| 1         | Há uma introdução sucinta sobre o Questionário? | ✔        |
+| 2         | A forma de aplicação do questionário foi descrita no documento? | ✔        |
+| 3         | As questões aplicadas no questionário foram citadas e explicadas individualmente? | ✔        |
+| 4         | Os resultados do questionário estão organizados de forma clara? | ✔        |
+| 5         | A análise dos resultados do questionário está clara? | ✔        |
+| 6         | Foram listados os requisitos obtidos através do questionário? | ✔        |
+| 7         | Existe identificador nos requisitos? | ✔        |
+| 8         | Os requisitos estão escritos de forma clara? | ✔        |
+| 9         | Os requisitos são visualizados facilmente? | ✔        |
 
+Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
