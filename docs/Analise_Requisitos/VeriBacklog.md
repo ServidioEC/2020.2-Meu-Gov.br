@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição            | Autores          | Revisor |
 | ---------- | ------ | -------------------- | ---------------  | ------- |
 | 15/04/2021 | 0.1    | Criação do Documento | Gabriela Pivetta | Eduarda Servidio |
+| 15/04/2021 | 0.2    | Complementação da Legenda | Eduarda Servidio | Gabriela Pivetta |
 
 ## Contexto
 
