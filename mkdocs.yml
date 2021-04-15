@@ -46,8 +46,9 @@ nav:
           - Validação:
                 - Prototipagem: 'Analise_Requisitos/prototipagem.md'
           - Verificação:
+                - Fist Things Fist: 'Analise_Requisitos/VeriFTF.md'
+                - Personas: 'Analise_Requisitos/VeriPersonas.md'
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
                 - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
-                - Fist Things Fist: 'Analise_Requisitos/VeriFTF.md'
 
 docs_dir: docs/
