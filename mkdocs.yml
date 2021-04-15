@@ -46,14 +46,14 @@ nav:
           - Validação:
                 - Prototipagem: 'Analise_Requisitos/prototipagem.md'
           - Verificação:
-                - Backlog: ''
+                - Backlog: 'Analise_Requisitos/VeriBacklog.md'
                 - Casos de Uso: 'Analise_Requisitos/VeriCasosUso.md'
                 - Cenários: ''
                 - Especificação Suplementar: ''
                 - First Things First: 'Analise_Requisitos/VeriFTF.md'
                 - Histórias de Usuário: 'Analise_Requisitos/VeriHistorias.md'
                 - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
-                - Léxicos: ''
+                - Léxicos: 'Analise_Requisitos/VeriLexicos.md'
                 - MoSCoW: 'Analise_Requisitos/VeriMosCow.md'
                 - NFR Framework: ''
                 - Personas: 'Analise_Requisitos/VeriPersonas.md'
