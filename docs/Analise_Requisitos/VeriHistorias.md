@@ -3,7 +3,7 @@
 
 | Data       | Versão | Descrição               | Autores          | Revisor          |
 | ---------- | ------ | ----------------------- | ---------------- | ---------------- |
-| 15/04/2021 | 0.1    | Criação do Documento e Adição do Checklist e das Respostas   | Eduarda Servidio | ---------------- |
+| 15/04/2021 | 0.1    | Criação do Documento e Adição do Checklist e das Respostas   | Eduarda Servidio | Giovana Dionisio |
 
 ## Contexto
 
@@ -24,7 +24,7 @@ Autor e Inspetor: Eduarda Servidio.
 6. A história de usuário possui critérios de aceitação?
 7. Os critérios de aceitação abordam todos os aspectos dessa história de usuário?
 8. Os critérios de aceitação estão escritos de forma clara?
-9. A história de usuário está ligada há algum requisito?
+9. A história de usuário está ligada a algum requisito?
 10. Há redundância ou irrelevância na história de usuário?
 11. A ortografia está correta?
 
