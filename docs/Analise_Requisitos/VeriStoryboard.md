@@ -24,20 +24,6 @@ Autor e Inspetor: Luis Marques.
 
 ## Checklist
 
-<<<<<<< HEAD
-| Itens                                          |
-| ---------------------------------------------- |
-| Atores                                         |
-| Ambiente                                       |
-| Tarefas                                        |
-| Motivação de usar a aplicação                  |
-| A história é condizente com o uso do app       |
-| As funcionalidades elicitadas são válidas      |
-| A ferramentas utilizada foram adequadas            |
-| Passos envolvidos                              |
-| O que motivou a usar o sistema                 |
-| O resultado (satisfação) após o uso do sistema |
-=======
 1. Atores                                         
 2. Ambiente                                       
 3. Tarefas                                        
@@ -48,7 +34,6 @@ Autor e Inspetor: Luis Marques.
 8. Passos envolvidos                             
 9. O que motivou a usar o sistema                 
 10. O resultado (satisfação) Após o uso do sistema 
->>>>>>> a56aee901e606c543ae524ce95f4fa0d9568694d
 
 <p align="justify"> A partir do checklist montado acima, os storyboards do projeto foram avaliados. </p>
 
@@ -67,39 +52,6 @@ Autor e Inspetor: Luis Marques.
 | O que motivou a usar o sistema                 | ✔            | ✔            |
 | O resultado (satisfação) Após o uso do sistema | ✔            | ✔            |
 
-<<<<<<< HEAD
-| Itens                                          | Resultado |
-| ---------------------------------------------- | --------- |
-| Atores                                         | ✔         |
-| Ambiente                                       | ✔         |
-| Tarefas                                        | ✔         |
-| Motivação de usar a aplicação                  | ✔         |
-| A história é condizente com o uso do app       | ✔         |
-| As funcionalidades elicitadas são válidas      | ✔         |
-| A ferramentas utilizadas foram adequadas       | ✔         |
-| Passos envolvidos                              | ✔         |
-| O que motivou a usar o sistema                 | ✔         |
-| O resultado (satisfação) após o uso do sistema | ✔         |
-
-Legenda: ✔ = está contido. ✖ = não está contido.
-
-## Storyboard 2
-
-| Itens                                          | Resultado |
-| ---------------------------------------------- | --------- |
-| Atores                                         | ✔         |
-| Ambiente                                       | ✔         |
-| Tarefas                                        | ✔         |
-| Motivação de usar a aplicação                  | ✔         |
-| A história é condizente com o uso do app       | ✔         |
-| As funcionalidades elicitadas são válidas      | ✔         |
-| A ferramentas utilizadas foram adequadas       | ✔         |
-| Passos envolvidos                              | ✔         |
-| O que motivou a usar o sistema                 | ✔         |
-| O resultado (satisfação) após o uso do sistema | ✔         |
-
-=======
->>>>>>> a56aee901e606c543ae524ce95f4fa0d9568694d
 Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
