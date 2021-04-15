@@ -10,7 +10,7 @@
 
 ## Metodologia
 
-<p align="justify">A verificação do documento de Pré-Rastreabilidade foi feita utilizando a técnica de leitura checklist. </p>
+<p align="justify">A verificação do documento de Pré-Rastreabilidade foi feita utilizando a técnica de leitura checklist, com foco na análise do Rich Picture. </p>
 
 ## Checklist
 
