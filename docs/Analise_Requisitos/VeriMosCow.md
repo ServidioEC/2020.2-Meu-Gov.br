@@ -5,7 +5,7 @@
 | Data       | Versão | Descrição                        | Autores          | Revisor          |
 | ---------- | ------ | -------------------------------- | ---------------- | ---------------- |
 | 14/04/2021 | 0.1    | Criação do Documento             | Luis Marques     | Gabriela Pivetta |
-| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---              |
+| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | Eduarda Servidio |
 
 ## Contexto
 
@@ -22,10 +22,10 @@ Autor e Inspetor: Luis Marques.
 1. Todos os requisitos foram avaliados?
 2. Algum campo ficou sem preenchimento?
 3. A técnica foi aplicada de forma correta?
-4. As funcionalidades elicitadas são validas?
+4. As funcionalidades elicitadas são válidas?
 5. O texto é claro?
 6. Os requisitos estão corretos?
-7. Existe erros de digitação?
+7. Existem erros de digitação?
 
 <p align="justify"> A partir do checklist acima, a priorização da técnica MoSCoW do projeto foi avaliada. </p>
 
@@ -45,4 +45,5 @@ Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
-<p align="justify"> Pela Análise da priorização através do checklist, foi atestado que eles foram realizados de forma correta. </p>
+<p align="justify"> Pela Análise da priorização através do checklist, foi atestado que eles
+foram realizados de forma correta. </p>
