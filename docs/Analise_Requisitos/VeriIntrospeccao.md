@@ -12,6 +12,7 @@
 ## Metodologia
 
 <p align="justify">Técnica utilizada: Leitura Checklist.</p>
+Autor e Inspetor: Eduarda Servidio.
 
 ## Checklist
 
@@ -33,7 +34,8 @@
 | 4         | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔    |
 | 5         | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔  | ✔   | ✔    |
 
-Legenda: R. = Requisito. Exemplo: R.1 = Requisito 01.
+Legenda: R. = Requisito (Exemplo: R.1 = Requisito 01).
+         ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
