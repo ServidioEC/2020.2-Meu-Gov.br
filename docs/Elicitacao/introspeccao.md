@@ -5,6 +5,7 @@
 | 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | Eduarda Servidio|
 | 02/03/2021 | 0.2	  | Correção de Erros de Digitação |	Eduarda Servidio |	Luis Gustavo |
 | 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | Luis Gustavo |
+| 15/04/2021 | 0.4    | Adição do Requisito 11 | Gabriela Pivetta    | ------- |
 
 ## Introdução
 
@@ -24,6 +25,7 @@
 | 8  | O usuário deve ter a possibilidade de ver e rever a política de privacidade | Após o login |
 | 9  | O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha | Após o login |
 | 10 | O usuário deve ser capaz de sair do aplicativo | Após o login |
+| 11 | O sistema deve disponibilizar uma aba de Dúvidas Frequentes | Ao abrir o aplicativo |
 
 ## Referências 
 
