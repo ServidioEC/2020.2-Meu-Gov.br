@@ -55,7 +55,7 @@ nav:
                 - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
                 - Léxicos: 'Analise_Requisitos/VeriLexicos.md'
                 - MoSCoW: 'Analise_Requisitos/VeriMosCow.md'
-                - NFR Framework: ''
+                - NFR Framework: 'Analise_Requisitos/VeriNFR.md'
                 - Personas: 'Analise_Requisitos/VeriPersonas.md'
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
                 - Questionário: 'Analise_Requisitos/VeriQuestionario.md'
