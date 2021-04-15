@@ -46,6 +46,7 @@
 | Passos envolvidos                              | ✔         |
 | O que motivou a usar o sistema                 | ✔         |
 | O resultado (satisfação) Após o uso do sistema | ✔         |
+
 Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Storyboard 2
@@ -62,6 +63,7 @@ Legenda: ✔ = está contido. ✖ = não está contido.
 | Passos envolvidos                              | ✔         |
 | O que motivou a usar o sistema                 | ✔         |
 | O resultado (satisfação) Após o uso do sistema | ✔         |
+
 Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
