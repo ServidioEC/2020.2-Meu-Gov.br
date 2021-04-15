@@ -2,15 +2,15 @@
 
 | Data       | Versão | Descrição            | Autores      | Revisor |
 | ---------- | ------ | -------------------- | ------------ | ------- |
-| 11/04/2021 | 0.1    | Criação do Documento | Luis Marques | ---     |
+| 11/04/2021 | 0.1    | Criação do Documento | Luis Marques | Gabriela Pivetta |
 
 ## Contexto
 
-<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/storyboard/" > Storyboard </a> </p>
+<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/storyboard/" > Storyboard. </a> </p>
 
 ## Metodologia
 
-<p align="justify">A verificação do Storyboard ocorreu com a tecnica de leitura checklist .</p>
+<p align="justify">A verificação do Storyboard ocorreu com a técnica de leitura checklist.</p>
 
 ## Checklist
 
@@ -27,7 +27,7 @@
 | O que motivou a usar o sistema                 |
 | O resultado (satisfação) Após o uso do sistema |
 
-<p align="justify"> A partir do checklist montado acima,o integrante Luis Marques avaliou os 2 storyboards do projeto. </p>
+<p align="justify"> A partir do checklist montado acima, o integrante Luis Marques avaliou os 2 storyboards do projeto. </p>
 
 ## Storyboard 1
 
@@ -61,4 +61,4 @@
 
 ## Conclusão
 
-<p align="justify"> Pela Analise dos Storyboards através do checklist , foi atestado que eles foram realizados de forma correta </p>
+<p align="justify"> Pela Analise dos Storyboards através do checklist, foi atestado que eles foram realizados de forma correta </p>

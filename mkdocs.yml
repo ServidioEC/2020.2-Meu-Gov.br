@@ -45,4 +45,8 @@ nav:
     - Análise de Requisitos:
           - Validação:
                 - Prototipagem: 'Analise_Requisitos/prototipagem.md'
+          - Verificação:
+                - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
+                - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
+            
 docs_dir: docs/
