@@ -1,4 +1,5 @@
 # Verificação do First Thing First
+
 ## Histórico de Versões
 
 | Data       | Versão | Descrição            | Autores      | Revisor |
@@ -11,15 +12,13 @@
 
 ## Metodologia
 
-<p align="justify">A verificação do Storyboard ocorreu com a técnica de leitura checklist .</p>
+<p align="justify">A verificação do Fist Things Fist ocorreu com a técnica de leitura checklist .</p>
 
 ## Checklist
 
-| Numero | Itens                                 |
-| ------ | ------------------------------------- |
-| 1      | Todos os requisitos foram avaliados ? |
-| 2      | Algum campo ficou sem preenchimento ? |
-| 3      | Algum requisito não foi avaliado ?    |
+1. Todos os requisitos foram avaliados ?
+2. Algum campo ficou sem preenchimento ?
+3. Algum requisito não foi avaliado ?
 
 <p align="justify"> A partir do checklist montado acima,o integrante Luis Marques avaliou a priorização da técnica Fist Things Fist do projeto do projeto. </p>
 
@@ -40,6 +39,8 @@
 | Q10                     | ✔   | ✔   | ✔   |
 | I9                      | ✔   | ✔   | ✔   |
 | S5                      | ✔   | ✔   | ✔   |
+
+Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 

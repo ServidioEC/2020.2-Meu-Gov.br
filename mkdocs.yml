@@ -46,12 +46,19 @@ nav:
           - Validação:
                 - Prototipagem: 'Analise_Requisitos/prototipagem.md'
           - Verificação:
-                - First Things First: 'Analise_Requisitos/VeriFTF.md'
-                - Histórias de Usuário: 'Analise_Requisitos/VeriHistorias.md'
-                - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
                 - Personas: 'Analise_Requisitos/VeriPersonas.md'
-                - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
+                - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
                 - Questionário: 'Analise_Requisitos/VeriQuestionario.md'
+                - Histórias de Usuário: 'Analise_Requisitos/VeriHistorias.md'
                 - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
+                - First Things First: 'Analise_Requisitos/VeriFTF.md'
+                - MoSCoW: 'Analise_Requisitos/VeriMosCow.md'
+                - Casos de Uso: 'Analise_Requisitos/VeriCasosUso.md'
+                - Cenários: ''
+                - Especificação Suplementar: ''
+                - Léxicos: ''
+                - Backlog: ''
+                - NFR Framework: ''
+                - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
 
 docs_dir: docs/
