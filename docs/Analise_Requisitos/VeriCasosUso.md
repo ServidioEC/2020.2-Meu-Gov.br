@@ -28,7 +28,7 @@ Autor e Inspetor: Luis Marques.
 6. O texto é claro?
 7. O diagrama foi realizado de forma correta?
 8. A pós condição está correta?
-9. Existem error ortográficos ?
+9. Existem erros ortográficos ?
 
 <p align="justify"> A partir do checklist acima, os casos de uso do projeto foram avaliados. </p>
 
