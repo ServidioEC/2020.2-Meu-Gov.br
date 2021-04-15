@@ -31,7 +31,7 @@ Autor e Inspetor: Gabriela Pivetta.
 11. O documento especifica a facilidade de suporte?
 12. Os requisitos levantados são coerentes com o aplicativo?
 
-<p align="justify">A partir do checklist montado acima, o questionário foi avaliado para cada Funcionalidade / História de Usuário do Backlog.</p>
+<p align="justify">A partir do checklist montado acima, o questionário foi avaliado para a Especificação Suplementar.</p>
 
 ## Respostas
 
