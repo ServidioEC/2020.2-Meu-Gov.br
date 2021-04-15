@@ -5,7 +5,7 @@
 | 28/02/2021 | 0.1    | Criação da Aba Introspecção. Adição da introdução, da tabela de requisitos levantados e das referências. | Gabriela Pivetta    | Eduarda Servidio|
 | 02/03/2021 | 0.2	  | Correção de Erros de Digitação |	Eduarda Servidio |	Luis Gustavo |
 | 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio    | Luis Gustavo |
-| 15/04/2021 | 0.4    | Adição do Requisito 11 | Gabriela Pivetta    | ------- |
+| 15/04/2021 | 0.4    | Adição do Requisito 11 | Gabriela Pivetta    | Eduarda Servidio |
 
 ## Introdução
 
