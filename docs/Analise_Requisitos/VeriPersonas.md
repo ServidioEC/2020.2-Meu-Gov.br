@@ -41,4 +41,4 @@ estão descritas de forma correta, de acordo com as questões levantadas no chec
 
 ## Acompanhamento
 
-<p align="justify">A inclusão de mais uma persona ao documento, levantada na conclusão, foi realizada.</p> 
+<p align="justify">A inclusão de mais uma persona ao documento, levantada na conclusão, foi realizada seguindo os critérios do checklist.</p> 
