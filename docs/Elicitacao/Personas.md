@@ -9,7 +9,7 @@
 <p align="justify">"Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário."(Barbosa e Silva, 2019, p. 176)</p>
 
 ##Personas
-### Primeira Persona
+### Primeira Persona (Primária)
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
@@ -21,9 +21,9 @@
 | Objetivo     | Ter acesso aos seus documentos durante o dia                                                    |
 | Expectativas | Ter acesso aos seus documentos de forma digital quando esquecer seus documentos físicos em casa |
 
-<p align="justify">Marcos Jorge é autônomo e leva a vida de forma estressante e corrida. Todos os dias, ele sai às pressas de casa para trabalhar. Frequentemente, ao sair, ele acaba esquecendo seus documentos físicos em casa e vem precisando deles ao longo do dia.</p>
+<p align="justify">Marcos Jorge é autônomo e leva a vida de forma estressante e corrida. Todos os dias, ele sai às pressas de casa para trabalhar. Frequentemente, ao sair, ele acaba esquecendo seus documentos físicos em casa e vem precisando deles ao longo do dia. Marcos precisa de uma solução para ter acesso aos seus documentos ao longo do dia de forma digital.</p>
 
-### Segunda Persona
+### Segunda Persona (Primária)
 
 |              | Persona                                                                       |
 | ------------ | ----------------------------------------------------------------------------- |
