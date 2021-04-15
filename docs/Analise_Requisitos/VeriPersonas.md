@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição                                                  | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------------------- | ---------------- | ---------------- |
-| 15/04/2021 | 0.1    | Criação do Documento e Adição do Checklist e das Respostas | Eduarda Servidio | ---------------- |
+| 15/04/2021 | 0.1    | Criação do Documento e Adição do Checklist e das Respostas | Eduarda Servidio | Giovana Dionisio |
 
 ## Contexto
 
