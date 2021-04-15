@@ -8,6 +8,7 @@
 | 30/03/2021 | 0.2    | Adição das Metodologias e separação dos tópicos     | Eduarda Servidio          | Gabriela Pivetta |
 | 30/03/2021 | 0.3    | Adição das Histórias no Épico Acesso ao Aplicativo  | Eduarda Servidio          | Gabriela Pivetta |
 | 30/03/2021 | 0.4    | Adição das Histórias nos Épicos Área do Usuário e Apoio ao Usuário  | Gabriela Pivetta          | Eduarda Servidio |
+| 15/04/2021 | 0.5    | Correção Ortográfica  | Eduarda Servidio          | Gabriela Pivetta |
 
 ## Metodologia - Histórias de Usuário
 <p align="justify">Histórias de Usuário são artefatos de desenvolvimento utilizados em sistemas geridos
@@ -92,7 +93,7 @@ Eu, como usuário visitante, desejo poder visualizar as dúvidas frequentes dos 
 ### US09 - Rever Instruções do Aplicativo
 Eu, como usuário logado, desejo poder visualizar as instruções do aplicativo Meu Gov<span>.</span>br.
 #### Critérios de Aceitação
-* Deve haver um botão que direcione o usuário para uma aba com as intruções do aplicativo.
+* Deve haver um botão que direcione o usuário para uma aba com as instruções do aplicativo.
 * Devem haver as instruções sobre o aplicativo na aba aberta.
 
 ### US10 - Rever Política de Privacidade
