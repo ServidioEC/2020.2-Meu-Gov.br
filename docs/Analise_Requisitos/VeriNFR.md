@@ -3,7 +3,7 @@
 
 | Data       | Versão | Descrição            | Autores          | Revisor |
 | ---------- | ------ | -------------------- | ---------------  | ------- |
-| 15/04/2021 | 0.1    | Criação do Documento | Gabriela Pivetta | ------- |
+| 15/04/2021 | 0.1    | Criação do Documento | Gabriela Pivetta | Eduarda Servidio |
 
 ## Contexto
 
