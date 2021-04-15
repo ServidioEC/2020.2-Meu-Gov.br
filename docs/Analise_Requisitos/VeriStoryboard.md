@@ -5,13 +5,9 @@
 | ---------- | ------ | ----------------------- | ------------ | ---------------- |
 | 11/04/2021 | 0.1    | Criação do Documento    | Luis Marques | Gabriela Pivetta |
 | 14/04/2021 | 0.2    | Atualização de símbolos | Luis Marques | Eduarda Servidio |
-<<<<<<< HEAD
-| 15/04/2021 | 0.3    | Adição de Legenda, correções ortográficas e visuais | Eduarda Servidio | ---------------- |
-=======
-| 15/04/2021 | 0.3    | Adição de Legenda       | Eduarda Servidio | Gabriela Pivetta |
-| 15/04/2021 | 0.4    | Junção de duas tabelas dos storyboards para uma  | Gabriela Pivetta | --------- |
-| 15/04/2021 | 0.5    | Atualização do Checklist de tabela para lista  | Gabriela Pivetta | --------- |
->>>>>>> a56aee901e606c543ae524ce95f4fa0d9568694d
+| 15/04/2021 | 0.3    | Adição de Legenda e correções de erros ortográficos      | Eduarda Servidio | Gabriela Pivetta |
+| 15/04/2021 | 0.4    | Junção de duas tabelas dos storyboards para uma  | Gabriela Pivetta | Eduarda Servidio |
+| 15/04/2021 | 0.5    | Atualização do Checklist de tabela para lista  | Gabriela Pivetta | Eduarda Servidio |
 
 ## Contexto
 
@@ -29,11 +25,11 @@ Autor e Inspetor: Luis Marques.
 3. Tarefas                                        
 4. Motivação de usar a aplicação                  
 5. A história é condizente com o uso do app       
-6. As funcionalidades elicitadas são validas      
-7. A ferramente utilizada foi adequada            
+6. As funcionalidades elicitadas são válidas      
+7. A ferramentas utilizadas foram adequadas            
 8. Passos envolvidos                             
 9. O que motivou a usar o sistema                 
-10. O resultado (satisfação) Após o uso do sistema 
+10. O resultado (satisfação) após o uso do sistema 
 
 <p align="justify"> A partir do checklist montado acima, os storyboards do projeto foram avaliados. </p>
 
