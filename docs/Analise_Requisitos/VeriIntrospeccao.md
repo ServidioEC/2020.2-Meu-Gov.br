@@ -20,7 +20,7 @@
 4. O requisito está ligado a um contexto?
 5. O requisito não é redundante ou irrelevante?
 
-<p align="justify"> A partir do checklist montado acima, a introspecção foi avaliada.</p>
+<p align="justify"> A partir do checklist montado acima, cada requisito listado na introspecção foi avaliado.</p>
 
 ## Respostas
 
