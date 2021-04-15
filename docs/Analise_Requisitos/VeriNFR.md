@@ -28,11 +28,11 @@ Autor e Inspetor: Gabriela Pivetta.
 8. Os impactos foram corretamente propagados?
 9. As operacionalizações condizem com o contexto?
 10. Existem operacionalizações suficientes no diagrama para representar o contexto?
-11. 
-13. As contribuições "AND" estão corretamente representadas e aplicadas?
-14. As contribuições "OR" estão corretamente representadas e aplicadas?
-15. As contribuições positivas estão corretamente representadas?
-16. As contribuições entre ramos diferentes estão corretamente representadas?
+11. As contribuições "AND" estão corretamente representadas e aplicadas?
+12. As contribuições "OR" estão corretamente representadas e aplicadas?
+13. As contribuições positivas estão corretamente representadas?
+14. As contribuições entre ramos diferentes estão corretamente representadas?
+15. A ortografia está correta?  
 
 <p align="justify">A partir do checklist montado acima, o questionário foi avaliado para o NFR Framework.</p>
 
@@ -52,9 +52,9 @@ Autor e Inspetor: Gabriela Pivetta.
 | 10     | Existem operacionalizações suficientes no diagrama para representar o contexto? | ✔   |
 | 11     | As contribuições "AND" estão corretamente representadas e aplicadas?            | ✔   |
 | 12     | As contribuições "OR" estão corretamente representadas e aplicadas?             | ✔   |
-| 12     | As contribuições positivas estão corretamente representadas?                    | ✔   |
-| 12     | As contribuições entre ramos diferentes estão corretamente representadas?       | ✔   |
-| 12     | A ortografia está correta?                                                      | ✖   |
+| 13     | As contribuições positivas estão corretamente representadas?                    | ✔   |
+| 14     | As contribuições entre ramos diferentes estão corretamente representadas?       | ✔   |
+| 15     | A ortografia está correta?                                                      | ✖   |
 
 Legenda: ✔ = está contido. ✖ = não está contido.
 
