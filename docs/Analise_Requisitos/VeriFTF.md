@@ -6,11 +6,11 @@
 
 ## Contexto
 
-<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/storyboard/" > Storyboard </a> </p>
+<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/Priorizacao/ftf/" > Storyboard </a> </p>
 
 ## Metodologia
 
-<p align="justify">A verificação do Storyboard ocorreu com a tecnica de leitura checklist .</p>
+<p align="justify">A verificação do Storyboard ocorreu com a técnica de leitura checklist .</p>
 
 ## Checklist
 
@@ -20,9 +20,9 @@
 | 2      | Algum campo ficou sem preenchimento ? |
 | 3      | Algum requisito não foi avaliado ?    |
 
-<p align="justify"> A partir do checklist montado acima,o integrante Luis Marques avaliou a priorização da tecnica Fist Things Fist do projeto do projeto. </p>
+<p align="justify"> A partir do checklist montado acima,o integrante Luis Marques avaliou a priorização da técnica Fist Things Fist do projeto do projeto. </p>
 
-##
+## Avaliação
 
 | ID do Fisrt Things Fist | 1   | 2   | 3   |
 | ----------------------- | --- | --- | --- |
@@ -42,4 +42,4 @@
 
 ## Conclusão
 
-<p align="justify"> Pela Analise dos Storyboards através do checklist , foi atestado que eles foram realizados de forma correta </p>
+<p align="justify"> Pela Analise da priorização através do checklist , foi atestado que eles foram realizados de forma correta </p>
