@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição            | Autores      | Revisor |
 | ---------- | ------ | -------------------- | ------------ | ------- |
 | 13/04/2021 | 0.1    | Criação do Documento | Pedro Haick  | Eduarda Servidio |
-| 15/04/2021 | 0.2    | Adição Introdução, Metodologia e Histórias atentidas | Giovana Dionisio |  |
+| 15/04/2021 | 0.2    | Adição Introdução, Metodologia e Histórias atentidas | Giovana Dionisio | Gabriela Pivetta |
 
 ## Introdução
 <p align="justify"> Protótipos são uma ferramenta que possibilitam a interação de um usuário (ou qualquer outra parte interessada do projeto) com a representação de um produto final. Eles podem ser construídos de diversas formas e com diversos materiais, a depender do seu grau de fidelidade (baixa ou alta) com a ideia do produto. </p>
