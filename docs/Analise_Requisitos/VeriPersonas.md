@@ -20,7 +20,7 @@
 4. É possível identificar se a persona é primária, secundária ou anti-persona?
 5. O que levou a persona a procurar o sistema foi exposto corretamente?
 
-<p align="justify"> A partir do checklist montado acima, as personas foram avaliadas.</p>
+<p align="justify"> A partir do checklist montado acima, cada persona foi avaliada.</p>
 
 ## Respostas
 
