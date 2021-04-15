@@ -12,6 +12,7 @@
 ## Metodologia
 
 <p align="justify">Técnica utilizada: Leitura Checklist.</p>
+Autor e Inspetor: Eduarda Servidio.
 
 ## Checklist
 
@@ -33,6 +34,8 @@
 | 3    | ✔            | ✔           | ✔            |
 | 4    | ✔            | ✔           | ✔            |
 | 5    | ✔            | ✔           | ✔            |
+
+Legenda: ✔ = está contido. ✖ = não está contido.
 
 ## Conclusão
 
