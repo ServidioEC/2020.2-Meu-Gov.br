@@ -8,6 +8,7 @@
 | 25/02/2021 | 0.2    | Atualização da Wiki Planejamento | Todos os membros          | Eduarda Servidio |
 | 25/02/2021 | 0.3    | Correção de Erros de Digitação   | Eduarda Servidio          | Gabriela Pivetta |
 | 21/03/2021 | 0.4    | Atualização das Ferramentas      | Gabriela Pivetta          | ------- |
+| 15/04/2021 | 0.5    | Atualização das Ferramentas      | Giovana Dionisio          | Giovana Dionisio |
 
 ## Justificativa de escolha do aplicativo
 
@@ -53,7 +54,9 @@ Estipulamos uma dedicaçao semanal de 8 horas por membro da equipe.
 | <img alt = "Logo Corel Draw" src="https://i.pinimg.com/originals/3a/42/d6/3a42d6d1373063528fd7854ba89e9847.png" width = "100">                                                                                                | CorelDraw          | Ferramenta usada para elaborar o Rich Picture            |
 | <img alt = "Logo Photohop" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width = "100">                                                                                                                      | Photoshop          | Ferramenta usada para criação dos slides finais          |
 | <img alt = "Logo MKdocs" src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width = "200">                                                                                                                            | MKdocs             | Ferramenta usada para criação do Site wiki do projeto.   |
-| <img alt = "Logo MKdocs" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/images/LucidLogo_Website.svg" width = "200">                                                                                                                            | Lucidchart             | Ferramenta usada para criação dos diagramas de casos de uso.   |
+| <img alt = "Logo Lucidchart" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/images/LucidLogo_Website.svg" width = "200">                                                                                                                            | Lucidchart             | Ferramenta usada para criação dos diagramas de casos de uso.   |
+| <img alt = "Logo StoryboardThat" src="https://media-exp1.licdn.com/dms/image/C560BAQHipFdk10fGOw/company-logo_200_200/0/1563894542006?e=2159024400&v=beta&t=Rftgy590iiWiEZ3RHetnZnoFaHtXanNF5-sCC1qiJ8M" width = "100">                                                                                                                            | StoryboardThat             | Ferramenta usada para a elaboração de storyboards.   |
+| <img alt = "Logo Figma" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" width = "100">                                                                                                                            | Figma             | Ferramenta usada para a elaboração do protótipo da apliacação   |
 
 ## Contribuições para a Primeira Apresentação
 
