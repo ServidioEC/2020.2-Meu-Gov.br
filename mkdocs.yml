@@ -46,7 +46,7 @@ nav:
           - Validação:
                 - Prototipagem: 'Analise_Requisitos/prototipagem.md'
           - Verificação:
-                - Fist Things Fist: 'Analise_Requisitos/VeriFTF.md'
+                - First Things First: 'Analise_Requisitos/VeriFTF.md'
                 - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
                 - Personas: 'Analise_Requisitos/VeriPersonas.md'
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
