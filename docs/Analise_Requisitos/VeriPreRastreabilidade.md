@@ -1,3 +1,4 @@
+# Verificação da Pré-Rastreabilidade: Rich Picture
 ## Histórico de Versões
 
 | Data       | Versão | Descrição            | Autores          | Revisor |
