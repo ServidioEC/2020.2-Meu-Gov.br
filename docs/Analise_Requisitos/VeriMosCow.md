@@ -1,10 +1,11 @@
 # Verificação da Priorização Moscow
+
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autores      | Revisor |
-| ---------- | ------ | -------------------- | ------------ | ------- |
-| 14/04/2021 | 0.1    | Criação do Documento | Luis Marques | Gabriela Pivetta |
-| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---     |
+| Data       | Versão | Descrição                        | Autores          | Revisor          |
+| ---------- | ------ | -------------------------------- | ---------------- | ---------------- |
+| 14/04/2021 | 0.1    | Criação do Documento             | Luis Marques     | Gabriela Pivetta |
+| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---              |
 
 ## Contexto
 
@@ -12,19 +13,21 @@
 
 ## Metodologia
 
-<p align="justify">A verificação do MoSCoW ocorreu com a técnica de leitura checklist .</p>
+<p align="justify">
+Técnica utilizada: Leitura Checklist.</p>
+Autor e Inspetor: Luis Marques.
 
 ## Checklist
 
-1. Todos os requisitos foram avaliados?  
-2. Algum campo ficou sem preenchimento?  
-3. A técnica foi aplicada de forma correta?  
-4. As funcionalidades elicitadas são validas? 
-5. O texto é claro?  
-6. Os requisitos estão corretos?  
+1. Todos os requisitos foram avaliados?
+2. Algum campo ficou sem preenchimento?
+3. A técnica foi aplicada de forma correta?
+4. As funcionalidades elicitadas são validas?
+5. O texto é claro?
+6. Os requisitos estão corretos?
 7. Existe erros de digitação?
 
-<p align="justify"> A partir do checklist montado acima, o integrante Luis Marques avaliou a priorização da técnica MoSCoW do projeto. </p>
+<p align="justify"> A partir do checklist acima, a priorização da técnica MoSCoW do projeto foi avaliada. </p>
 
 ## Avaliação
 

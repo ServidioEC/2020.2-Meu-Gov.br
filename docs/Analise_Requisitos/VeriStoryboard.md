@@ -7,8 +7,8 @@
 | 11/04/2021 | 0.1    | Criação do Documento                            | Luis Marques     | Gabriela Pivetta |
 | 14/04/2021 | 0.2    | Atualização de símbolos                         | Luis Marques     | Eduarda Servidio |
 | 15/04/2021 | 0.3    | Adição de Legenda                               | Eduarda Servidio | Gabriela Pivetta |
-| 15/04/2021 | 0.4    | Junção de duas tabelas dos storyboards para uma | Gabriela Pivetta | Eduarda Servidio        |
-| 15/04/2021 | 0.5    | Atualização do Checklist de tabela para lista   | Gabriela Pivetta | Eduarda Servidio        |
+| 15/04/2021 | 0.4    | Junção de duas tabelas dos storyboards para uma | Gabriela Pivetta | Eduarda Servidio |
+| 15/04/2021 | 0.5    | Atualização do Checklist de tabela para lista   | Gabriela Pivetta | Eduarda Servidio |
 
 ## Contexto
 
@@ -32,7 +32,7 @@ Autor e Inspetor: Luis Marques.
 9. O que motivou a usar o sistema
 10. O resultado (satisfação) Após o uso do sistema
 
-<p align="justify"> A partir do checklist montado acima, os storyboards do projeto foram avaliados. </p>
+<p align="justify"> A partir do checklist acima, os storyboards do projeto foram avaliados. </p>
 
 ## Storyboards
 

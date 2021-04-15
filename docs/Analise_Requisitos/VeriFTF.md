@@ -8,11 +8,13 @@
 
 ## Contexto
 
-<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/Priorizacao/ftf/" > Storyboard </a> </p>
+<p align="justify">O documento avaliado foi o <a href = "https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/Elicitacao/Priorizacao/ftf/" > Fist Thing First </a> </p>
 
 ## Metodologia
 
-<p align="justify">A verificação do Fist Things Fist ocorreu com a técnica de leitura checklist .</p>
+<p align="justify">
+Técnica utilizada: Leitura Checklist.</p>
+Autor e Inspetor: Luis Marques.
 
 ## Checklist
 
@@ -20,7 +22,7 @@
 2. Algum campo ficou sem preenchimento ?
 3. Algum requisito não foi avaliado ?
 
-<p align="justify"> A partir do checklist montado acima,o integrante Luis Marques avaliou a priorização da técnica Fist Things Fist do projeto do projeto. </p>
+<p align="justify"> A partir do checklist acima, a priorização da técnica Fist Things Fist do projeto do projeto foi avaliada. </p>
 
 ## Avaliação
 

@@ -48,7 +48,7 @@ nav:
           - Verificação:
                 - Backlog: 'Analise_Requisitos/VeriBacklog.md'
                 - Casos de Uso: 'Analise_Requisitos/VeriCasosUso.md'
-                - Cenários: ''
+                - Cenários: 'Analise_Requisitos/VeriCenarios.md'
                 - Especificação Suplementar: 'Analise_Requisitos/VeriEspSuplementar.md'
                 - First Things First: 'Analise_Requisitos/VeriFTF.md'
                 - Histórias de Usuário: 'Analise_Requisitos/VeriHistorias.md'

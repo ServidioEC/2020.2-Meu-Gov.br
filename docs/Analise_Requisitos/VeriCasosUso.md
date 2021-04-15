@@ -1,10 +1,11 @@
 # Verificação dos Casos de Uso
+
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autores      | Revisor |
-| ---------- | ------ | -------------------- | ------------ | ------- |
-| 14/04/2021 | 0.1    | Criação do Documento | Luis Marques | Gabriela Pivetta |
-| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---     |
+| Data       | Versão | Descrição                        | Autores          | Revisor          |
+| ---------- | ------ | -------------------------------- | ---------------- | ---------------- |
+| 14/04/2021 | 0.1    | Criação do Documento             | Luis Marques     | Gabriela Pivetta |
+| 15/04/2021 | 0.2    | Correções ortográficas e visuais | Gabriela Pivetta | ---              |
 
 ## Contexto
 
@@ -12,7 +13,9 @@
 
 ## Metodologia
 
-<p align="justify">A verificação dos casos de uso ocorreu com a técnica de leitura checklist .</p>
+<p align="justify">
+Técnica utilizada: Leitura Checklist.</p>
+Autor e Inspetor: Luis Marques.
 
 ## Checklist
 
@@ -24,21 +27,21 @@
 6. O texto é claro?
 7. O diagrama foi realizado de forma correta?
 8. A pós condição está correta?
-9. Existem erros de digitação?
+9. Existem error ortográficos ?
 
-<p align="justify"> A partir do checklist montado acima, o integrante Luis Marques avaliou a priorização da técnica MoSCoW do projeto. </p>
+<p align="justify"> A partir do checklist acima, o integrante Luis Marques avaliou os casos de uso do projeto. </p>
 
 ## Avaliação
 
-| ID do Casos de uso | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
-| ------------------ | --- | --- | --- | --- | --- | --- | --- | --- |
-| UC1                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
-| UC2                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
-| UC3                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
-| UC4                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
-| UC5                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
-| UC6                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
-| UC7                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| ID do Casos de uso | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| ------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| UC1                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| UC2                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| UC3                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| UC4                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| UC5                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| UC6                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
+| UC7                | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | ✔   | x   |
 
 Legenda: ✔ = está contido. ✖ = não está contido.
 
