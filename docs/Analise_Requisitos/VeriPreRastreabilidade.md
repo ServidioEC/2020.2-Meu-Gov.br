@@ -28,7 +28,7 @@
 | 10     | A ortografia está correta?	                        | ✔        |
 | 11     | O desenho é inteligível?  	                        | ✔        |
 | 12     | Possui fronteiras?        	                        | ✔        |
-| 12     | As ações estão corretas?    	                        | ✖        |
+| 13     | As ações estão corretas?    	                        | ✖        |
 
 ## Conclusão
 
