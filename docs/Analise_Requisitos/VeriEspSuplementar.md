@@ -3,7 +3,7 @@
 
 | Data       | Versão | Descrição            | Autores          | Revisor |
 | ---------- | ------ | -------------------- | ---------------  | ------- |
-| 15/04/2021 | 0.1    | Criação do Documento | Gabriela Pivetta | ------- |
+| 15/04/2021 | 0.1    | Criação do Documento | Gabriela Pivetta | Eduarda Servidio |
 
 ## Contexto
 
@@ -27,7 +27,7 @@ Autor e Inspetor: Gabriela Pivetta.
 7. O documento especifica a funcionalidade?
 8. O documento especifica a usabilidade?
 9. O documento especifica a confiabilidade?
-10. O documento especifica a desempenho?
+10. O documento especifica o desempenho?
 11. O documento especifica a facilidade de suporte?
 12. Os requisitos levantados são coerentes com o aplicativo?
 
