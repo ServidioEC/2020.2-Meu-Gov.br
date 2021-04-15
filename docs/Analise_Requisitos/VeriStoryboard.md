@@ -1,8 +1,9 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autores      | Revisor |
-| ---------- | ------ | -------------------- | ------------ | ------- |
-| 11/04/2021 | 0.1    | Criação do Documento | Luis Marques | Gabriela Pivetta |
+| Data       | Versão | Descrição               | Autores      | Revisor          |
+| ---------- | ------ | ----------------------- | ------------ | ---------------- |
+| 11/04/2021 | 0.1    | Criação do Documento    | Luis Marques | Gabriela Pivetta |
+| 14/04/2021 | 0.2    | Atualização de símbolos | Luis Marques | -----            |
 
 ## Contexto
 
@@ -33,31 +34,31 @@
 
 | Itens                                          | Resultado |
 | ---------------------------------------------- | --------- |
-| Atores                                         | Possui    |
-| Ambiente                                       | Possui    |
-| Tarefas                                        | Possui    |
-| Motivação de usar a aplicação                  | Possui    |
-| A história é condizente com o uso do app       | Possui    |
-| As funcionalidades elicitadas são validas      | Possui    |
-| A ferramente utilizada foi adequada            | Possui    |
-| Passos envolvidos                              | Possui    |
-| O que motivou a usar o sistema                 | Possui    |
-| O resultado (satisfação) Após o uso do sistema | Possui    |
+| Atores                                         | ✔         |
+| Ambiente                                       | ✔         |
+| Tarefas                                        | ✔         |
+| Motivação de usar a aplicação                  | ✔         |
+| A história é condizente com o uso do app       | ✔         |
+| As funcionalidades elicitadas são validas      | ✔         |
+| A ferramente utilizada foi adequada            | ✔         |
+| Passos envolvidos                              | ✔         |
+| O que motivou a usar o sistema                 | ✔         |
+| O resultado (satisfação) Após o uso do sistema | ✔         |
 
 ## Storyboard 2
 
 | Itens                                          | Resultado |
 | ---------------------------------------------- | --------- |
-| Atores                                         | Possui    |
-| Ambiente                                       | Possui    |
-| Tarefas                                        | Possui    |
-| Motivação de usar a aplicação                  | Possui    |
-| A história é condizente com o uso do app       | Possui    |
-| As funcionalidades elicitadas são validas      | Possui    |
-| A ferramente utilizada foi adequada            | Possui    |
-| Passos envolvidos                              | Possui    |
-| O que motivou a usar o sistema                 | Possui    |
-| O resultado (satisfação) Após o uso do sistema | Possui    |
+| Atores                                         | ✔         |
+| Ambiente                                       | ✔         |
+| Tarefas                                        | ✔         |
+| Motivação de usar a aplicação                  | ✔         |
+| A história é condizente com o uso do app       | ✔         |
+| As funcionalidades elicitadas são validas      | ✔         |
+| A ferramente utilizada foi adequada            | ✔         |
+| Passos envolvidos                              | ✔         |
+| O que motivou a usar o sistema                 | ✔         |
+| O resultado (satisfação) Após o uso do sistema | ✔         |
 
 ## Conclusão
 
