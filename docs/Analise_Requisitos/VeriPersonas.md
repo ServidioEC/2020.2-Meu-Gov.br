@@ -37,7 +37,8 @@
 
 <p align="justify">Feito o Checklist das personas, pode-se concluir que talvez seja necessário
 a inclusão de mais uma persona, primária ou secundária. Contudo, as personas até então avaliadas
-estão descritas de forma correta, de acordo com as questões levantadas no checklist.</p>
+estão descritas de forma correta, de acordo com as questões levantadas no checklist. Bem como,
+há uma introdução bem definida no início do documento referente às Personas.</p>
 
 ## Acompanhamento
 
