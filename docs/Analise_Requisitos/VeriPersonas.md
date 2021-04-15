@@ -14,11 +14,11 @@
 
 ## Checklist
 
-1. A descrição das personas está objetiva e clara?
+1. A descrição da persona está objetiva e clara?
 2. O objetivo da persona foi exposto corretamente de forma breve?
 3. A expectativa da persona foi exposto corretamente de forma breve?
 4. É possível identificar se a persona é primária, secundária ou anti-persona?
-5. O que levou as personas a procurar o sistema foi exposto corretamente?
+5. O que levou a persona a procurar o sistema foi exposto corretamente?
 
 <p align="justify"> A partir do checklist montado acima, as personas foram avaliadas.</p>
 
