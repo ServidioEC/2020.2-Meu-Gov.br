@@ -4,6 +4,7 @@
 | ---------- | ------ | -------------------------------------------    | ---------------- | ---------------- |
 | 08/03/2021 | 0.1    | Criação e elaboração do documento              | Giovana Dionisio | Gabriela Pivetta |
 | 18/03/2021 | 0.2    | Correções com base no _feedback_ da aula 13    | Giovana Dionisio | Eduarda Servidio |
+| 15/04/2021 | 0.3    | Adição do requisito 11 da Introspecção         | Giovana Dionisio |                  |
 
 ## Introdução
 <p align="justify"> MoSCoW é um método utilizado para a priorização de requisitos criado por Dai Clegg em meados dos anos 90. Muito utilizada em metodologias ágeis, essa técnica consiste na classificação de cada requisito de acordo com a importância de cada um. Neste cenário, os requisitos podem ser classificados em: </p>
@@ -34,6 +35,7 @@
 | 8  | O usuário deve ter a possibilidade de ver e rever a política de privacidade | Must Have |
 | 9  | O sistema deve disponibilizar um QR Code único para cada usuário para a recuperação de senha | Could have |
 | 10 | O usuário deve ser capaz de sair do aplicativo | Must have |
+| 11 | O sistema deve disponibilizar uma aba de Dúvidas Frequentes | Should Have |
 
 ### Questionário
 | ID | Descrição | Prioridade |
