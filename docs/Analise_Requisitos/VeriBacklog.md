@@ -1,4 +1,4 @@
-# Verificação da Pré-Rastreabilidade: Rich Picture
+# Verificação do Backlog
 ## Histórico de Versões
 
 | Data       | Versão | Descrição            | Autores          | Revisor |
